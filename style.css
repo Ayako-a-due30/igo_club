@@ -1,0 +1,154 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    line-height: 150%;
+    color: #333;
+    font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Tiro Bangla', serif;
+    background-image:
+    repeating-linear-gradient(
+        90deg,
+        #949494,
+        #949494 5px,
+        transparent 1px,
+        transparent 100px
+    ),
+    repeating-linear-gradient(
+        0deg,
+        #949494,
+        #949494 5px,
+        #f7f7f7 1px,
+        #f7f7f7 100px
+        );
+
+}
+h1,h2{
+    margin: 0;
+    padding: 0;
+    line-height: 150%;
+}
+h1{
+    background-color: #333;
+    text-align: center;
+}
+body p{
+    line-height: 150%;
+}
+section{
+    background-color: #f7f7f7;
+    padding: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#contents{
+    width: 850px;
+}
+.site-width{
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrap{
+    overflow: hidden;
+}
+.introduction{
+    width:100%;
+    box-sizing: border-box;
+}
+.schedule, .login{
+    width: 380px;
+    height: 400px;
+    float: left;
+    box-sizing: border-box;
+}
+.schedule{
+    margin-right: 90px;
+}
+.login{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+table{
+    vertical-align: middle;
+    margin-top: 30px;
+    overflow: hidden;
+}
+table tr{
+    height: 65px;
+}
+.signIn input[type=email],
+.signIn input[type=password]{
+    width: 180px;
+    height: 30px;
+    border: 1px solid #949494;
+}
+input[type="submit"]{
+    float: right;
+    background-color: #949494;
+    color: #f7f7f7;
+    border: none;
+    border-radius: 3px;
+    width: 100px;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+body a:hover{
+    text-decoration: underline;
+}
+
+h1 a,footer a{
+    color: #f7f7f7;
+    top: 50%;
+}
+img{
+    height: 40px;
+    width: 40px;
+    vertical-align: middle;
+}
+p{
+    font-size: 20px;
+}
+header,footer{
+    width: 100%;
+    margin: 0;
+    line-height: 150%;
+    text-align: center;
+    background-color: #333;
+    height: 60px;
+    padding: 30px;
+}
+footer{
+    bottom: 0;
+    margin-top: 50px;
+}
+footer a{
+    vertical-align: middle;
+}
+/* 新規会員登録 */
+section .register{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.register h2{
+    text-align: center;
+}
+.register input[type="email"],
+.register input[type="text"],
+.register input[type="password"]{
+    width: 300px;
+    height: 30px;
+}
+.registerTable{
+    margin-top: 10px;
+}
+.registerTable input[type="submit"]{
+    height: 40px;
+    width: 100px;
+    background-color: #333;
+}
