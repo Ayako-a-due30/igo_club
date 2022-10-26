@@ -14,33 +14,35 @@ if(!empty($_POST)){
 
     try{
         $dbh = dbConnect();
-        $sql='INSERT INTO `users`(`email`, `nickname`, `level`, `attendance`, `pass`, `login_time`,`update_date`) 
-        VALUES (:email,;nickname,:level,:attendance,:pass,:login_time,:update_date,:update_date)';
-        $data = array(':email' => $email,
+        $sql='INSERT INTO `users`(`email`, `nickname`, `level`, `attendance`, `pass`, `login_time`,`update_date`,`delete_flg`) 
+        VALUES (:email,:nickname,:level,:attendance,:pass,:login_time,current_timestamp,0)';
+        $data = array(
+        ':email' => $email,
         ':nickname' => $nickname,
         ':level' => $level,
         ':attendance' => $attendance,
         ':pass'=> $pass,
-        ':login_time' => date('Y-m-d H:i:s'));
+        ':login_time' => date('Y-m-d H:i:s')
+        );
         //クエリ実行
         $stmt=queryPost($dbh,$sql,$data);
         //クエリ成功の場合
-        // if($stmt){
-        //     $sesLimit=60*60;
-        //     $_SESSION['login_date']=time();
-        //     $_SESSION['login_limit']=$sesLimit;
-        //     //ユーザーIDを格納
-        //     $_SESSION['user_id']=$dbh->lastInsertId();
+        if($stmt){
+            $sesLimit=60*60;
+            $_SESSION['login_date']=time();
+            $_SESSION['login_limit']=$sesLimit;
+            //ユーザーIDを格納
+            $_SESSION['user_id']=$dbh->lastInsertId();
 
-        //     debug('セッション変数の中身：'.print_r($_SESSION,true));
-        //     header("Location:mypage.php");   
-        // }else{
-        // error_log('クエリに失敗しました');
-        // $err_msg['common']=MSG07;
-        // }
+            debug('セッション変数の中身：'.print_r($_SESSION,true));
+            header("Location:mypage.php");   
+        }else{
+        error_log('クエリに失敗しました');
+        $err_msg['common']=MSG07;
+        }
     }catch(Exception $e){
         error_log('エラー発生：'.$e->getMessage());
-        $err_msg['common']=MSG07;
+        $err_msg['common']= MSG07;
     }
 }
 ?>
@@ -57,9 +59,8 @@ require('header.php');
 <div id="contents" class="site-width">
     <section class="register">
         <h2><img src="kuroishi.png" alt=""> 新規会員登録</h2>
-        <form action="post" class="register">
+        <form method="post" class="register">
             <table class="registerTable">
-                <?php if(!empty($_POST)) echo $_POST['email']; ?>
                 <label for="email">
                     <tr>
                         <td>メールアドレス</td><td><input type="email" name="email"></td>
@@ -77,7 +78,7 @@ require('header.php');
                 </label>
                 <label for="frequency">
                     <tr>
-                        <td>出席予定</td><td><input type="radio" name="frequency" value="always">毎回参加予定<input type="radio" name="frequency" value="byChance">都合の良い時のみ</td>
+                        <td>出席予定</td><td><input type="radio" name="attendance" value="always">毎回参加予定<input type="radio" name="attendance" value="byChance">都合の良い時のみ</td>
                     </tr>
                 </label>
                 <label for="pass">
