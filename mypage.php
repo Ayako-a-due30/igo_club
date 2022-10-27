@@ -60,7 +60,7 @@ require('header.php');
 <div id="contents" class="site-width">
     <section class="register">
         <h2><img src="kuroishi.png" alt=""> 新規会員登録</h2>
-        <form action="post" class="register">
+        <form method="post" class="register">
             <table class="registerTable">
                 <tr>
                     <label for="email">
@@ -80,7 +80,11 @@ require('header.php');
                     </label>
                     <label for="frequency">
                         <tr>
-                            <td>出席予定</td><td><input type="radio" name="frequency" value="always">毎回参加予定<input type="radio" name="frequency" value="byChance">都合の良い時のみ</td>
+                            <td>出席予定</td>
+                            <td>
+                                <input type="radio" name="frequency" value="always">毎回参加予定
+                                <input type="radio" name="frequency" value="byChance">都合の良い時のみ
+                            </td>
                         </tr>
                     </label>
                     <label for="pass">

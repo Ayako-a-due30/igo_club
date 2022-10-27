@@ -138,6 +138,12 @@ section .register{
 .register h2{
     text-align: center;
 }
+.register p{
+    font-size: 14px;
+}
+.register.small{
+    font-size: 7px;
+}
 .register input[type="email"],
 .register input[type="text"],
 .register input[type="password"]{
@@ -151,4 +157,10 @@ section .register{
     height: 40px;
     width: 100px;
     background-color: #333;
+}
+label.err{
+    background: #f7dcd9;
+}
+td .err_msg{
+    color: #dc143c;
 }

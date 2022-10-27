@@ -39,3 +39,124 @@ Stack trace:
 #1 {main}
   thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 30
 [21-Oct-2022 03:50:57 UTC] PHP Notice:  Undefined index: email in /Applications/MAMP/htdocs/igo_club/signUp.php on line 81
+[26-Oct-2022 03:51:40 UTC] PHP Parse error:  Unclosed '{' on line 59 in /Applications/MAMP/htdocs/igo_club/function.php on line 107
+[26-Oct-2022 03:53:55 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666756435
+    [login_limit] => 3600
+    [user_id] => 7
+)
+
+[26-Oct-2022 05:49:46 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666763386
+    [login_limit] => 3600
+    [user_id] => 8
+)
+
+[26-Oct-2022 08:51:16 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666774276
+    [login_limit] => 3600
+    [user_id] => 9
+)
+
+[26-Oct-2022 17:41:15 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 15
+[26-Oct-2022 18:03:21 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 15
+[26-Oct-2022 18:08:16 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 12
+[26-Oct-2022 18:08:16 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[26-Oct-2022 19:49:40 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 15
+[26-Oct-2022 19:51:42 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[26-Oct-2022 19:51:57 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[26-Oct-2022 19:53:30 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[26-Oct-2022 19:53:30 UTC] PHP Warning:  Undefined array key "email" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 19
+[27-Oct-2022 00:28:55 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 00:40:50 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 00:42:39 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 00:46:15 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 01:58:50 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 01:58:52 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 01:58:54 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 01:58:55 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:01:03 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:26 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:30 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:31 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:33 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:35 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:38 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:41 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:45 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:11:46 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:16:27 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:29:13 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:29:15 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:30:26 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:30:27 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:30:28 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:30:39 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:30:42 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:30:57 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:33:43 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:45:25 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:50:06 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:50:06 UTC] PHP Warning:  Undefined variable $stmt in /Applications/MAMP/htdocs/igo_club/function.php on line 77
+[27-Oct-2022 02:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /Applications/MAMP/htdocs/igo_club/function.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/signUp.php(34): validDupEmail('')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 77
+[27-Oct-2022 02:50:08 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 02:50:08 UTC] PHP Warning:  Undefined variable $stmt in /Applications/MAMP/htdocs/igo_club/function.php on line 77
+[27-Oct-2022 02:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /Applications/MAMP/htdocs/igo_club/function.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/signUp.php(34): validDupEmail('')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 77
+[27-Oct-2022 03:42:13 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 03:42:20 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 03:43:30 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 03:43:39 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 03:49:04 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:49:43 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:52:21 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:53:50 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:53:52 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:53:54 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:54:24 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 03:54:26 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 18
+[27-Oct-2022 04:10:59 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting "," or ";" in /Applications/MAMP/htdocs/igo_club/function.php on line 104
+[27-Oct-2022 04:12:24 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /Applications/MAMP/htdocs/igo_club/function.php on line 103
+[27-Oct-2022 04:13:15 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /Applications/MAMP/htdocs/igo_club/function.php on line 103
+[27-Oct-2022 04:13:16 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /Applications/MAMP/htdocs/igo_club/function.php on line 103
+[27-Oct-2022 04:13:27 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /Applications/MAMP/htdocs/igo_club/function.php on line 103
+[27-Oct-2022 04:15:00 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:16:17 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:20:31 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:20:55 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:26:23 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:26:45 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:27:05 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:30:01 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:31:09 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:31:09 UTC] PHP Warning:  Undefined array key "re_pass" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 46
+[27-Oct-2022 04:31:38 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:32:51 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:33:13 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:35:41 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:35:41 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/igo_club/signUp.php:46
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/signUp.php on line 46
+[27-Oct-2022 04:36:28 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:39:01 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:39:49 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 04:40:39 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 05:29:56 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 05:30:00 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 05:32:42 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 05:36:30 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 05:36:50 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 05:37:56 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 06:19:27 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[27-Oct-2022 06:19:34 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16

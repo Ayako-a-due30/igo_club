@@ -29,7 +29,7 @@
         </section>
         <section class="login">
             <h2><img src="kuroishi.png" alt="">会員ログイン</h2>
-            <form action="post" class="signIn">
+            <form method="post" class="signIn">
                 <table>
                     <tr>
                         <label for="">

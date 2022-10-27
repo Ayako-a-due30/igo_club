@@ -1,48 +1,88 @@
 <?php
     error_reporting(E_ALL);
     ini_set('display_errors','On');
+    ini_set('log_errors','on');
+    ini_set('error_log','php.log');
+
 
 require('function.php');
 
+
 if(!empty($_POST)){
+    $attendance = array();
     $email=$_POST['email'];
     $nickname=$_POST['nickname'];
     $level=$_POST['level'];
     $attendance=$_POST['attendance'];
     $pass= $_POST['pass'];
+    $re_pass = $_POST['re_pass'];
+
+    
+    // //////////未入力チェック///////////////
+
+    // ニックネーム
+    validRequired($nickname,'nickname');
+
+    // パスワード
+    validrequired($pass,'pass');
+
+    //出席予定
+    validRequired($attendance,'attendance');
 
 
-    try{
-        $dbh = dbConnect();
-        $sql='INSERT INTO `users`(`email`, `nickname`, `level`, `attendance`, `pass`, `login_time`,`update_date`,`delete_flg`) 
-        VALUES (:email,:nickname,:level,:attendance,:pass,:login_time,current_timestamp,0)';
-        $data = array(
-        ':email' => $email,
-        ':nickname' => $nickname,
-        ':level' => $level,
-        ':attendance' => $attendance,
-        ':pass'=> $pass,
-        ':login_time' => date('Y-m-d H:i:s')
-        );
-        //クエリ実行
-        $stmt=queryPost($dbh,$sql,$data);
-        //クエリ成功の場合
-        if($stmt){
-            $sesLimit=60*60;
-            $_SESSION['login_date']=time();
-            $_SESSION['login_limit']=$sesLimit;
-            //ユーザーIDを格納
-            $_SESSION['user_id']=$dbh->lastInsertId();
+    /////////////Email///////////////////
+    //形式チェック
+    validEmail($email,'email');
 
-            debug('セッション変数の中身：'.print_r($_SESSION,true));
-            header("Location:mypage.php");   
-        }else{
-        error_log('クエリに失敗しました');
-        $err_msg['common']=MSG07;
+    //email重複
+    validDupEmail($email);
+
+
+    ///////////パスワード/////////////////
+    //一致確認
+    validMatch($pass,$re_pass,'re_pass');
+    
+    //最小文字数確認
+    valildMinLength($pass,'pass');
+
+   //半角チェック
+    validHalf($pass,'pass');
+
+
+
+    if(empty($err_msg)){
+        try{
+            $dbh = dbConnect();
+            $sql='INSERT INTO `users`(`email`, `nickname`, `level`, `attendance`, `pass`, `login_time`,`update_date`,`delete_flg`) 
+            VALUES (:email,:nickname,:level,:attendance,:pass,:login_time,current_timestamp,0)';
+            $data = array(
+            ':email' => $email,
+            ':nickname' => $nickname,
+            ':level' => $level,
+            ':attendance' => $attendance,
+            ':pass'=> $pass,
+            ':login_time' => date('Y-m-d H:i:s')
+            );
+            //クエリ実行
+            $stmt=queryPost($dbh,$sql,$data);
+            //クエリ成功の場合
+            if($stmt){
+                $sesLimit=60*60;
+                $_SESSION['login_date']=time();
+                $_SESSION['login_limit']=$sesLimit;
+                //ユーザーIDを格納
+                $_SESSION['user_id']=$dbh->lastInsertId();
+    
+                debug('セッション変数の中身：'.print_r($_SESSION,true));
+                header("Location:mypage.php");   
+            }else{
+            error_log('クエリに失敗しました');
+            $err_msg['common']=MSG06;
+            }
+        }catch(Exception $e){
+            error_log('エラー発生：'.$e->getMessage());
+            $err_msg['common'] = MSG06;
         }
-    }catch(Exception $e){
-        error_log('エラー発生：'.$e->getMessage());
-        $err_msg['common']= MSG07;
     }
 }
 ?>
@@ -60,32 +100,69 @@ require('header.php');
     <section class="register">
         <h2><img src="kuroishi.png" alt=""> 新規会員登録</h2>
         <form method="post" class="register">
-            <table class="registerTable">
-                <label for="email">
-                    <tr>
-                        <td>メールアドレス</td><td><input type="email" name="email"></td>
+            <span class="small">＊項目は必須です。</span>
+            <table class="registerTable"> 
+                <tr>
+                    <td>
+                        <label class="<?php if(!empty($err_msg['email'])) echo 'err'; ?>">メールアドレス(＊)
+                        </label>
+                    </td>
+                    <td>
+                        <input type="email" name="email" value="<?php if(!empty($_POST['email'])) echo $_POST['email'];?>">
+                        <?php if(!empty($err_msg['email'])) echo $err_msg['email'];?>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label class="<?php if (!empty($err_msg['nickname'])) echo 'err'; ?>" for = "nickname">ニックネーム(＊)
+                        </label>
+                    </td> 
+                    <td>
+                        <input type="text" name="nickname" value="<?php if(!empty($_POST['nickname'])) echo $_POST['nickname'];?>">
+                        <?php if(!empty($err_msg['nickname'])) echo $err_msg['nickname'];?>
+                    </td>
                     </tr>
-                </label>
-                <label for="nickname">
                     <tr>
-                        <td>ニックネーム</td> <td><input type="text" name="nickname"></td>
+                        <label for="level">
+                        <td>棋力（任意）</td>
+                        <td><input type="text" name="level"></td>
+                    </label>
                     </tr>
-                </label>
-                <label for="level">
                     <tr>
-                        <td>棋力（任意）</td><td><input type="text" name="level"></td>
+                        <td>
+                            <label for="attendance" class="<?php if(!empty($err_msg['attendance'])) echo 'err'?>">出席予定(＊)
+                            </label>
+                        </td>
+                        <td>
+                            <input type="radio" name="attendance" value="always">毎回参加予定
+                            <input type="radio" name="attendance" value="byChance">都合の良い時のみ
+                            <?php if(!empty($err_msg['attendance'])) echo $err_msg['attendance'];?>
+                        </td>
                     </tr>
-                </label>
-                <label for="frequency">
-                    <tr>
-                        <td>出席予定</td><td><input type="radio" name="attendance" value="always">毎回参加予定<input type="radio" name="attendance" value="byChance">都合の良い時のみ</td>
-                    </tr>
-                </label>
                 <label for="pass">
                     <tr>
-                        <td>パスワード<br>（半角６文字以上で入力してください）</td><td><input type="password" name="pass"></td>
+                        <td>
+                            <label for="" class="<?php if(!empty($err_msg['pass'])) echo 'err'?>">パスワード(＊)</label>
+                            <br><span class="small">（半角６文字以上で入力してください）</span>
+                        </td>
+                        <td><input type="password" name="pass">
+                        <?php if(!empty($err_msg['pass'])) echo $err_msg['pass'];?>
+                        </td>
                     </tr>
                 </label>
+                <label for="re_pass">
+                    <tr>
+                        <td>
+                            <label for="" class="<?php if(!empty($err_msg['re_pass'])) echo 'err'?>">パスワード再入力(＊)</label>
+                        </td>
+                        <td><input type="password" name="re_pass">
+                        <?php if(!empty($err_msg['re_pass'])) echo $err_msg['re_pass'];?>
+
+                        </td>
+
+                    </tr>
+                </label>
+
                     <tr>
                         <td colspan="2"><input type="submit" value="登録"></td>
                     </tr>
