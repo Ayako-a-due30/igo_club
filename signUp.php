@@ -4,12 +4,21 @@
     ini_set('log_errors','on');
     ini_set('error_log','php.log');
 
+    //タイムゾーン取得-------------
+    date_default_timezone_set('Tokyo/Asia');
+    $script_tz = date_default_timezone_get();
+
+    if (strcmp($script_tz, ini_get('date.timezone'))){
+        echo 'Script timezone differs from ini-set timezone.';
+    } else {
+        echo 'Script timezone and ini-set timezone match.';
+    }
+    //----------------------------
 
 require('function.php');
 
 
 if(!empty($_POST)){
-    $attendance = array();
     $email=$_POST['email'];
     $nickname=$_POST['nickname'];
     $level=$_POST['level'];
@@ -60,7 +69,7 @@ if(!empty($_POST)){
             ':nickname' => $nickname,
             ':level' => $level,
             ':attendance' => $attendance,
-            ':pass'=> $pass,
+            ':pass'=> password_hash($pass, PASSWORD_DEFAULT),
             ':login_time' => date('Y-m-d H:i:s')
             );
             //クエリ実行
@@ -102,6 +111,11 @@ require('header.php');
         <form method="post" class="register">
             <span class="small">＊項目は必須です。</span>
             <table class="registerTable"> 
+                <span class="<?php if(!empty($err_msg['common'])) echo 'err'; ?>">
+                <div class="area-msg">
+                    <?php if(!empty($err_msg['common'])) echo $err_msg['common']; ?>
+                </div>
+                </span>
                 <tr>
                     <td>
                         <label class="<?php if(!empty($err_msg['email'])) echo 'err'; ?>">メールアドレス(＊)
@@ -109,7 +123,9 @@ require('header.php');
                     </td>
                     <td>
                         <input type="email" name="email" value="<?php if(!empty($_POST['email'])) echo $_POST['email'];?>">
-                        <?php if(!empty($err_msg['email'])) echo $err_msg['email'];?>
+                        <div class="area-msg">
+                            <?php if(!empty($err_msg['email'])) echo $err_msg['email'];?>
+                        </div>
                     </td>
                 </tr>
                 <tr>
@@ -119,7 +135,9 @@ require('header.php');
                     </td> 
                     <td>
                         <input type="text" name="nickname" value="<?php if(!empty($_POST['nickname'])) echo $_POST['nickname'];?>">
-                        <?php if(!empty($err_msg['nickname'])) echo $err_msg['nickname'];?>
+                        <div class="area-msg">
+                            <?php if(!empty($err_msg['nickname'])) echo $err_msg['nickname'];?>
+                        </div>
                     </td>
                     </tr>
                     <tr>
@@ -136,7 +154,9 @@ require('header.php');
                         <td>
                             <input type="radio" name="attendance" value="always">毎回参加予定
                             <input type="radio" name="attendance" value="byChance">都合の良い時のみ
-                            <?php if(!empty($err_msg['attendance'])) echo $err_msg['attendance'];?>
+                            <div class="area-msg">
+                                <?php if(!empty($err_msg['attendance'])) echo $err_msg['attendance'];?>
+                            </div>
                         </td>
                     </tr>
                 <label for="pass">
@@ -146,7 +166,9 @@ require('header.php');
                             <br><span class="small">（半角６文字以上で入力してください）</span>
                         </td>
                         <td><input type="password" name="pass">
-                        <?php if(!empty($err_msg['pass'])) echo $err_msg['pass'];?>
+                        <div class="area-msg">
+                            <?php if(!empty($err_msg['pass'])) echo $err_msg['pass'];?>
+                        </div>
                         </td>
                     </tr>
                 </label>
@@ -156,7 +178,9 @@ require('header.php');
                             <label for="" class="<?php if(!empty($err_msg['re_pass'])) echo 'err'?>">パスワード再入力(＊)</label>
                         </td>
                         <td><input type="password" name="re_pass">
-                        <?php if(!empty($err_msg['re_pass'])) echo $err_msg['re_pass'];?>
+                        <div class="area-msg">
+                            <?php if(!empty($err_msg['re_pass'])) echo $err_msg['re_pass'];?>
+                        </div>
 
                         </td>
 

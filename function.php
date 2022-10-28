@@ -127,4 +127,3 @@ function queryPost($dbh,$sql,$data){
     $stmt->execute($data);
     return $stmt;
 }
-?>

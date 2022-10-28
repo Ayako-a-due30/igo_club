@@ -160,3 +160,70 @@ Stack trace:
 [27-Oct-2022 05:37:56 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
 [27-Oct-2022 06:19:27 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
 [27-Oct-2022 06:19:34 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[28-Oct-2022 00:01:07 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[28-Oct-2022 00:02:09 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[28-Oct-2022 00:02:27 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[28-Oct-2022 00:04:18 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[28-Oct-2022 00:04:48 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666915488
+    [login_limit] => 3600
+    [user_id] => 10
+)
+
+[28-Oct-2022 00:09:03 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/mypage.php on line 11
+[28-Oct-2022 00:09:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'igo_clu' in /Applications/MAMP/htdocs/igo_club/function.php:121
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/function.php(121): PDO->__construct('mysql:dbname=ig...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/igo_club/mypage.php(18): dbConnect()
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 121
+[28-Oct-2022 00:36:04 UTC] エラー発生：SQLSTATE[HY000] [1049] Unknown database 'igo_clu'
+[28-Oct-2022 02:51:10 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:51:10 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666925470
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[28-Oct-2022 02:51:16 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:51:18 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:51:20 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:54:59 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:54:59 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666925699
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[28-Oct-2022 02:58:51 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:59:13 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 02:59:13 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1666925953
+    [login_limit] => 3600
+    [user_id] => 13
+)
+
+[28-Oct-2022 03:15:24 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:15:25 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:15:27 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:15:27 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 03:56:09 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:56:09 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 03:56:17 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:56:52 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:56:56 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:56:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:56:58 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 03:59:04 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:59:04 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 03:59:06 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 03:59:06 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 04:00:26 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:00:26 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 04:00:40 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:00:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:00:45 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
