@@ -28,9 +28,10 @@ session_regenerate_id();
 function debugLogStart(){
     debug('>>>>>>>>>>>>>画面表示処理開始');
     debug('セッション ID：'.session_id());
-    debug('セッション変数の中身：'.print_r($_SESSION['login_limit']));
+    debug('セッション変数の中身：'.print_r($_SESSION,true));
+    debug('現在日時タイムスタンプ：'.time());
         if(!empty($_SESSION['login_date'])&& !empty($_SESSION['login_limit'])){
-            debug('ログイン期限日時タイムスタンプ：'.$SESSION['login_date'].$_SESSION['login_limit']);
+            debug('ログイン期限日時タイムスタンプ：'.($_SESSION['login_date']+ $_SESSION['login_limit']));
     }
 }
 
@@ -42,6 +43,16 @@ const MSG04 = '半角英数字のみご利用いただけます';
 const MSG05 = '６文字以上で入力してください';
 const MSG06 = 'エラーが発生しました。しばらく経ってからやり直してください。';
 const MSG07 = 'そのEmailはすでに登録されています';
+const MSG09 = 'メールアドレスまたはパスワードが違います';
+const MSG10 = '２５６文字以内で入力してください';
+const MSG11 = '古いパスワードが違います';
+const MSG12 = '古いパスワードと同じです';
+const MSG13 = '文字で入力してください';
+const MSG14 = '正しくありません';
+const MSG15 = '有効期限が切れています';
+const SUC01 = 'パスワードを変更しました';
+const SUC02 = 'プロフィールを変更しました';
+const SUC03 = 'メールを送信しました';
 
 // //グローバル変数・エラーメッセージ格納用
 $err_msg = array();
@@ -99,11 +110,31 @@ function valildMinLength($str,$key,$min = 6){
         $err_msg[$key]= MSG05;
     }
 }
+//２５６文字以上
+function validMaxLength($str,$key,$max = 256){
+    if(mb_strlen($str) > $max){
+        global $err_msg;
+        $err_msg[$key] = MSG10;
+    }
+}
 // 半角チェック
 function validHalf($str,$key){
     if (!preg_match("/^[a-zA-Z0-9]+$/", $str)){
         global $err_msg;
         $err_msg[$key] = MSG04;
+    }
+}
+//////パスワード変更バリデーション
+function validPass($str,$key){
+    validHalf($str,$key);
+    valildMinLength($str,$key);
+    validMaxLength($str,$key);
+}
+//固定長チェック
+function validLength($str,$key,$len=8){
+    if(mb_strlen($str)!==$len){
+        global $err_msg;
+        $err_msg[$key] = $len.MSG14;
     }
 }
 
@@ -127,3 +158,88 @@ function queryPost($dbh,$sql,$data){
     $stmt->execute($data);
     return $stmt;
 }
+/////////////メール送信
+
+function sendMail($from,$to,$subject,$comment){
+    if(!empty($to) && !empty($subject) && !empty($comment)){
+        mb_language("Japanese");
+        mb_internal_encoding("UTF-8");
+        $result = mb_send_mail($to,$subject,$comment,"From:".$from);
+        if($result){
+            debug('メールを送信しました');
+        }else{
+            debug('[エラー発生]メールの送信に失敗しました');
+        }
+    }
+}
+
+////////////ユーザー情報取得
+function getUser($u_id){
+    debug('ユーザー情報を取得します。');
+try{
+    $dbh= dbConnect();
+    $sql = 'SELECT*FROM users WHERE id = :u_id AND delete_flg = 0';
+    $data = array(':u_id' => $u_id);
+    $stmt= queryPost($dbh,$sql,$data);
+
+    if($stmt){
+        return $stmt->fetch(PDO::FETCH_ASSOC);
+    }else{
+        return false;
+    }
+}catch (Exception $e){
+    error_log('エラー発生：'.$e ->getMesssage());
+}
+}
+function makeRandKey($length = 8){
+    static $chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+    $str = '';
+    for ($i = 0;$i<$length;++$i){
+        $str.=$chars[mt_rand(0,61)];
+    }
+    return $str;
+}
+///////////////サニタイズ
+function sanitize($str){
+    return htmlspecialchars($str,ENT_QUOTES);
+}
+
+///////////////フォーム入力保持
+function getFormData ($str,$flg = false){
+    if($flg){
+        $method = $_GET;
+    }else{
+        $method = $_POST;
+    }
+    global $dbFormData;
+        if(!empty($dbFormData)){
+            if(!empty($err_msg[$str])){
+                    if(isset($method[$str])){
+                        return sanitize($method[$str]);
+                    }else{
+                        return sanitize($dbFormData[$str]);
+                    }
+                }else{
+                    //POSTにデータがあり、DBの情報と違う場合
+                    if(isset($method[$str])&& $method[$str]!== dbFormData[$str]){
+                        return sanitize($method[$str]);
+                    }else{
+                        return sanitize($dbFormData[$str]);
+                    }
+            }
+    }else{
+        if(isset($method[$str])){
+            return sanitize ($method[$str]);
+        }
+    }
+}
+//sessionを一回だけ取得できる
+function getSessionFlash($key){
+    if(!empty($_SESSION[$key])){
+        $data = $_SESSION[$key];
+        $_SESSION[$key] = '';
+        return $data;
+    }
+}
+
+///////////お問合せメール送信

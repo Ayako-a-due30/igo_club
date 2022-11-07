@@ -44,7 +44,7 @@ section{
     margin-top: 30px;
     margin-bottom: 30px;
 }
-#contents{
+.site-width{
     width: 850px;
 }
 .site-width{
@@ -73,11 +73,11 @@ section{
 }
 table{
     vertical-align: middle;
-    margin-top: 30px;
     overflow: hidden;
+    margin-top: 10px;
 }
 table tr{
-    height: 65px;
+    height: 45px;
 }
 .signIn input[type=email],
 .signIn input[type=password]{
@@ -161,6 +161,85 @@ section .register{
 label.err{
     background: #f7dcd9;
 }
-form.area-msg{
+div.area-msg{
     color: #dc143c;
+}
+
+/* マイページ */
+.mypage-wrap{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+ul.my-menu>li{
+    list-style: none;
+    
+}
+ul.meeting-day>li{
+    list-style-type: none;
+}
+/* 感想戦 */
+.record-pic{
+    width: 400px;
+    height: 400px;
+}
+/* お問合せメール送信ページ */
+.mail-title{
+    text-align: center;
+    padding-top: 30px;
+}
+.mail-form-wrap{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #f7f7f7;
+    width: 800px;
+}
+.form-table{
+    margin: 50px 200px;
+}
+.mail-form{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+.mail-input{
+    width: 400px;
+    height: 40px;
+}
+.text-input{
+    width: 400px;
+    height: 300px;
+}
+.mail-td{
+    height: 50px;
+    width: 400px;
+    box-sizing: border-box;
+}
+/* パスワード変更ページ */
+.pass-title{
+    text-align: center;
+}
+.pass_edit{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.registerTable{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.changePassTr{
+    height: 150%;
+}
+.changePassTd{
+    height: 70px;
+    text-align: center;
+}
+td>input[type="password"]{
+    width: 100%;
+    height: 40px;
 }

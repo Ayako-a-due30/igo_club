@@ -4,16 +4,7 @@
     ini_set('log_errors','on');
     ini_set('error_log','php.log');
 
-    //タイムゾーン取得-------------
-    date_default_timezone_set('Tokyo/Asia');
-    $script_tz = date_default_timezone_get();
-
-    if (strcmp($script_tz, ini_get('date.timezone'))){
-        echo 'Script timezone differs from ini-set timezone.';
-    } else {
-        echo 'Script timezone and ini-set timezone match.';
-    }
-    //----------------------------
+    
 
 require('function.php');
 
@@ -56,7 +47,6 @@ if(!empty($_POST)){
 
    //半角チェック
     validHalf($pass,'pass');
-
 
 
     if(empty($err_msg)){

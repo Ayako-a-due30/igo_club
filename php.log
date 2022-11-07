@@ -227,3 +227,4016 @@ Stack trace:
 [28-Oct-2022 04:00:40 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
 [28-Oct-2022 04:00:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
 [28-Oct-2022 04:00:45 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 26
+[28-Oct-2022 04:43:32 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:43:32 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:46:26 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:46:26 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:46:28 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:46:28 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:50:25 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:50:25 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:52:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:52:58 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:53:01 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:53:01 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:53:43 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:53:43 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:53:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:53:45 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:53:52 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:53:52 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:53:55 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:53:55 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:53:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:53:58 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:54:57 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:54:57 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 04:54:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 04:54:58 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 06:34:01 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[28-Oct-2022 06:34:01 UTC] PHP Warning:  Undefined array key "attendance" in /Applications/MAMP/htdocs/igo_club/signUp.php on line 25
+[28-Oct-2022 11:01:49 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:01:49 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:01:49 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:01:49 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:01:49 UTC] デバッグ：セッション ID：e0t1vd90460g8mgtrgh098a9gh
+[28-Oct-2022 11:01:49 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:01:49 UTC] PHP Warning:  Undefined variable $SESSION in /Applications/MAMP/htdocs/igo_club/function.php on line 33
+[28-Oct-2022 11:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/igo_club/function.php on line 33
+[28-Oct-2022 11:01:49 UTC] デバッグ：ログイン期限日時タイムスタンプ：3600
+[28-Oct-2022 11:01:49 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Applications/MAMP/htdocs/igo_club/auth.php on line 4
+[28-Oct-2022 11:07:18 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:07:18 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:07:18 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:07:18 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:07:18 UTC] デバッグ：セッション ID：27u41mos2as0eebrjv6deem7lt
+[28-Oct-2022 11:07:18 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:07:18 UTC] デバッグ：ログイン期限日時タイムスタンプ：1666929553
+[28-Oct-2022 11:07:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Applications/MAMP/htdocs/igo_club/auth.php on line 15
+[28-Oct-2022 11:07:36 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:07:36 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:07:36 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:07:36 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:07:36 UTC] デバッグ：セッション ID：olrlfq0sp45t8639dsml5q633v
+[28-Oct-2022 11:07:36 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:07:36 UTC] デバッグ：ログイン期限日時タイムスタンプ：1666929553
+[28-Oct-2022 11:07:36 UTC] デバッグ：ログイン済みユーザーです。
+[28-Oct-2022 11:07:36 UTC] デバッグ：ログイン有効期限オーバーです。
+[28-Oct-2022 11:07:36 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:07:36 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:07:36 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:07:36 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:07:36 UTC] デバッグ：セッション ID：9a97loand40pvlv2rpeg3j69k4
+[28-Oct-2022 11:07:36 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:07:36 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:16:32 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:16:32 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:16:32 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:16:32 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:16:32 UTC] デバッグ：セッション ID：50v7983j1msmoveas7332bbtbj
+[28-Oct-2022 11:16:32 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:16:32 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:33:08 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:33:08 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:33:08 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:33:08 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:33:08 UTC] デバッグ：セッション ID：eriolcsq705rnr1ccnhnir7uqk
+[28-Oct-2022 11:33:08 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:33:08 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:34:14 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:34:14 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:34:14 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:34:14 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:34:14 UTC] デバッグ：セッション ID：drb1gh8d4rvtvlte4cr7a87mq8
+[28-Oct-2022 11:34:14 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:34:14 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:35:38 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:35:38 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:35:38 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:35:38 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:35:38 UTC] デバッグ：セッション ID：kfts6at605698p2tp3aavb8aof
+[28-Oct-2022 11:35:38 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:35:38 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:36:25 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:36:25 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:36:25 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:36:25 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:36:25 UTC] デバッグ：セッション ID：nm6r2u17o6i9acausv7d30q9i7
+[28-Oct-2022 11:36:25 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:36:25 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:36:35 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:36:35 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:36:35 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:36:35 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:36:35 UTC] デバッグ：セッション ID：54gfc7s9r47o8umgnaokl1agva
+[28-Oct-2022 11:36:35 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:36:35 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:36:38 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:36:38 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:36:38 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:36:38 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:36:38 UTC] デバッグ：セッション ID：nbltt5gr4g8dm7cbki5o965veo
+[28-Oct-2022 11:36:38 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:36:38 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:37:02 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:37:02 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:37:02 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:37:02 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:37:02 UTC] デバッグ：セッション ID：lktf1lmsgjksk0r816j701a314
+[28-Oct-2022 11:37:02 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:37:02 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 11:54:27 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 11:54:27 UTC] デバッグ：ログインページ
+[28-Oct-2022 11:54:27 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 11:54:27 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 11:54:27 UTC] デバッグ：セッション ID：rofur18t6cqv2evp7emfbi7ii7
+[28-Oct-2022 11:54:27 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 11:54:27 UTC] デバッグ：セッション変数の中身：1
+[28-Oct-2022 23:52:14 UTC] デバッグ：[[[[[[[[[[
+[28-Oct-2022 23:52:14 UTC] デバッグ：ログインページ
+[28-Oct-2022 23:52:14 UTC] デバッグ：]]]]]]]]]]]
+[28-Oct-2022 23:52:14 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Oct-2022 23:52:14 UTC] デバッグ：セッション ID：5ul8hb4gerv5qfjuq8g4219lup
+[28-Oct-2022 23:52:14 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[28-Oct-2022 23:52:14 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 02:50:25 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[29-Oct-2022 02:50:51 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 02:50:51 UTC] デバッグ：ログインページ
+[29-Oct-2022 02:50:51 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 02:50:51 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 02:50:51 UTC] デバッグ：セッション ID：3rdqkvq4ja3sup5l821tn609gd
+[29-Oct-2022 02:50:51 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 02:50:51 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 02:50:51 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 02:58:02 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 02:58:02 UTC] デバッグ：ログインページ
+[29-Oct-2022 02:58:02 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 02:58:02 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 02:58:02 UTC] デバッグ：セッション ID：t7ndcdpgb0b1i9crogdr8855ls
+[29-Oct-2022 02:58:02 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 02:58:02 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 02:58:02 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 02:59:33 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 02:59:33 UTC] デバッグ：ログインページ
+[29-Oct-2022 02:59:33 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 02:59:33 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 02:59:33 UTC] デバッグ：セッション ID：gqhkr6rq2ltnl0a7png7vs69v9
+[29-Oct-2022 02:59:33 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 02:59:33 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 02:59:33 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 02:59:42 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 02:59:42 UTC] デバッグ：ログインページ
+[29-Oct-2022 02:59:42 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 02:59:42 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 02:59:42 UTC] デバッグ：セッション ID：73hrec09dsct1vi5g2dfe6cd53
+[29-Oct-2022 02:59:42 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 02:59:42 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 02:59:42 UTC] デバッグ：POST送信があります
+[29-Oct-2022 02:59:42 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 02:59:42 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => tokagetokage
+    [id] => 1
+)
+
+[29-Oct-2022 02:59:42 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 02:59:42 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 02:59:55 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 02:59:55 UTC] デバッグ：ログインページ
+[29-Oct-2022 02:59:55 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 02:59:55 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 02:59:55 UTC] デバッグ：セッション ID：ctjmb3kdudh57ijvkldec7pqii
+[29-Oct-2022 02:59:55 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 02:59:55 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 02:59:55 UTC] デバッグ：POST送信があります
+[29-Oct-2022 02:59:55 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 02:59:55 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => tokagetokage
+    [id] => 1
+)
+
+[29-Oct-2022 02:59:55 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 02:59:55 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 03:00:01 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 03:00:01 UTC] デバッグ：ログインページ
+[29-Oct-2022 03:00:01 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 03:00:01 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 03:00:01 UTC] デバッグ：セッション ID：s5fmvujdsv7pfdqsm3nqbsk1vg
+[29-Oct-2022 03:00:01 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 03:00:01 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 03:00:01 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 03:00:01 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 03:00:01 UTC] デバッグ：ログインページ
+[29-Oct-2022 03:00:01 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 03:00:01 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 03:00:01 UTC] デバッグ：セッション ID：4drlvjb9mma9ut03u8jef9g3s9
+[29-Oct-2022 03:00:01 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 03:00:01 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 03:00:01 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 03:00:11 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 03:00:11 UTC] デバッグ：ログインページ
+[29-Oct-2022 03:00:11 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 03:00:11 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 03:00:11 UTC] デバッグ：セッション ID：jlsa263crtn8skhduhnn8n3ui4
+[29-Oct-2022 03:00:11 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 03:00:11 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 03:00:11 UTC] デバッグ：POST送信があります
+[29-Oct-2022 03:00:11 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 03:00:11 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => tokagetokage
+    [id] => 1
+)
+
+[29-Oct-2022 03:00:11 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 03:00:11 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 03:04:42 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 03:04:42 UTC] デバッグ：ログインページ
+[29-Oct-2022 03:04:42 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 03:04:42 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 03:04:42 UTC] デバッグ：セッション ID：db5qldqgrpp65dnmfa1e8aspr3
+[29-Oct-2022 03:04:42 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 03:04:42 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 03:04:42 UTC] デバッグ：POST送信があります
+[29-Oct-2022 03:04:42 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 03:04:42 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => tokagetokage
+    [id] => 1
+)
+
+[29-Oct-2022 03:04:42 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 03:04:42 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:01:52 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:01:52 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:01:52 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:01:52 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:01:52 UTC] デバッグ：セッション ID：p58pif2ce3lk473fslv96ko88b
+[29-Oct-2022 06:01:52 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 06:01:52 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 06:01:52 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:01:52 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:01:52 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => tokagetokage
+    [id] => 1
+)
+
+[29-Oct-2022 06:01:52 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:01:52 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:08:57 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:08:57 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:08:57 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:08:57 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:08:57 UTC] デバッグ：セッション ID：gvtjsc4vnrf8cpk8n46nc3eqpv
+[29-Oct-2022 06:08:57 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 06:08:57 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 06:08:57 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:08:57 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:08:57 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 06:08:57 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:08:57 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:13:22 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:13:22 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:13:22 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:13:22 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:13:22 UTC] デバッグ：セッション ID：7vp7d3cs4t1eevqosn9bslcm0e
+[29-Oct-2022 06:13:22 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 06:13:22 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 06:13:22 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:13:22 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:13:22 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 06:13:22 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:13:22 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:13:32 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:13:32 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:13:32 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:13:32 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:13:32 UTC] デバッグ：セッション ID：lanc3des4nuvtruk6dvhkghtfp
+[29-Oct-2022 06:13:32 UTC] PHP Warning:  Undefined array key "login_limit" in /Applications/MAMP/htdocs/igo_club/function.php on line 31
+[29-Oct-2022 06:13:32 UTC] デバッグ：セッション変数の中身：1
+[29-Oct-2022 06:13:32 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:13:32 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:13:32 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 06:13:32 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:13:32 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:18:33 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:18:33 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:18:33 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:18:33 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:18:33 UTC] デバッグ：セッション ID：ou1b14vu14or1k048cq6t8a1om
+[29-Oct-2022 06:18:33 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 06:18:33 UTC] デバッグ：現在日時タイムスタンプ：1667024313
+[29-Oct-2022 06:18:33 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:18:33 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:18:33 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 06:18:33 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:18:33 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:18:42 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:18:42 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:18:42 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:18:42 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:18:42 UTC] デバッグ：セッション ID：i6hv1p50clp689ijevmga0mjvg
+[29-Oct-2022 06:18:42 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 06:18:42 UTC] デバッグ：現在日時タイムスタンプ：1667024322
+[29-Oct-2022 06:18:42 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:18:42 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:18:42 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 06:18:42 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:18:42 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:36:45 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:36:45 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:36:45 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:36:45 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:36:45 UTC] デバッグ：セッション ID：pm107ofaklv5m5gui6him2hiav
+[29-Oct-2022 06:36:45 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 06:36:45 UTC] デバッグ：現在日時タイムスタンプ：1667025405
+[29-Oct-2022 06:36:45 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Applications/MAMP/htdocs/igo_club/auth.php on line 14
+[29-Oct-2022 06:38:47 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:38:47 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:38:47 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:38:47 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:38:47 UTC] デバッグ：セッション ID：2brf13bhg7g98q90ppbfmnn62s
+[29-Oct-2022 06:38:47 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 06:38:47 UTC] デバッグ：現在日時タイムスタンプ：1667025527
+[29-Oct-2022 06:38:47 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 06:38:47 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 06:39:37 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 06:39:37 UTC] デバッグ：ログインページ
+[29-Oct-2022 06:39:37 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 06:39:37 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 06:39:37 UTC] デバッグ：セッション ID：s9mjqi8vt22ghf7gv664kg8aum
+[29-Oct-2022 06:39:37 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 06:39:37 UTC] デバッグ：現在日時タイムスタンプ：1667025577
+[29-Oct-2022 06:39:37 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 06:39:37 UTC] デバッグ：POST送信があります
+[29-Oct-2022 06:39:37 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 06:39:37 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 06:39:37 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 06:39:37 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 07:35:25 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 07:35:25 UTC] デバッグ：ログインページ
+[29-Oct-2022 07:35:25 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 07:35:25 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 07:35:25 UTC] デバッグ：セッション ID：18adtj2fi9vh1b2l298sse7enm
+[29-Oct-2022 07:35:25 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 07:35:25 UTC] デバッグ：現在日時タイムスタンプ：1667028925
+[29-Oct-2022 07:35:25 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 07:35:25 UTC] デバッグ：POST送信があります
+[29-Oct-2022 07:35:25 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 07:35:25 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 07:35:25 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 07:35:25 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 07:35:44 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 07:35:44 UTC] デバッグ：ログインページ
+[29-Oct-2022 07:35:44 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 07:35:44 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 07:35:44 UTC] デバッグ：セッション ID：2p3vutb4q9dr3qogau40o6qus2
+[29-Oct-2022 07:35:44 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 07:35:44 UTC] デバッグ：現在日時タイムスタンプ：1667028944
+[29-Oct-2022 07:35:44 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 07:35:44 UTC] デバッグ：POST送信があります
+[29-Oct-2022 07:35:44 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 07:35:44 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 07:35:44 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 07:35:44 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 07:35:52 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 07:35:52 UTC] デバッグ：ログインページ
+[29-Oct-2022 07:35:52 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 07:35:52 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 07:35:52 UTC] デバッグ：セッション ID：n8lkvsr6i8h18uonagig7qtb6j
+[29-Oct-2022 07:35:52 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 07:35:52 UTC] デバッグ：現在日時タイムスタンプ：1667028952
+[29-Oct-2022 07:35:52 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 07:35:52 UTC] デバッグ：POST送信があります
+[29-Oct-2022 07:35:52 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 07:35:52 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 07:35:52 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 07:35:52 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 07:55:02 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 07:55:02 UTC] デバッグ：ログインページ
+[29-Oct-2022 07:55:02 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 07:55:02 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 07:55:02 UTC] デバッグ：セッション ID：96369svbub02uoqldn87vn1p7f
+[29-Oct-2022 07:55:02 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 07:55:02 UTC] デバッグ：現在日時タイムスタンプ：1667030102
+[29-Oct-2022 07:55:02 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 07:55:02 UTC] デバッグ：POST送信があります
+[29-Oct-2022 07:55:02 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 07:55:02 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => nekoneko
+    [id] => 3
+)
+
+[29-Oct-2022 07:55:02 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 07:55:02 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 07:55:26 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 07:55:26 UTC] デバッグ：ログインページ
+[29-Oct-2022 07:55:26 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 07:55:26 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 07:55:26 UTC] デバッグ：セッション ID：8t22jhjgemoddr9pheg4q9knr3
+[29-Oct-2022 07:55:26 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 07:55:26 UTC] デバッグ：現在日時タイムスタンプ：1667030126
+[29-Oct-2022 07:55:26 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 07:55:26 UTC] デバッグ：POST送信があります
+[29-Oct-2022 07:55:26 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 07:55:26 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => tokagetokage
+    [id] => 1
+)
+
+[29-Oct-2022 07:55:26 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 07:55:26 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 11:10:59 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 11:10:59 UTC] デバッグ：ログインページ
+[29-Oct-2022 11:10:59 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 11:10:59 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 11:10:59 UTC] デバッグ：セッション ID：aqtjj2ntmta4m7lcbhl8vg6f0e
+[29-Oct-2022 11:10:59 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 11:10:59 UTC] デバッグ：現在日時タイムスタンプ：1667041859
+[29-Oct-2022 11:10:59 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 11:10:59 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 11:11:13 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 11:11:13 UTC] デバッグ：ログインページ
+[29-Oct-2022 11:11:13 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 11:11:13 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 11:11:13 UTC] デバッグ：セッション ID：rilbrctnau6u485crm351ifu0v
+[29-Oct-2022 11:11:13 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 11:11:13 UTC] デバッグ：現在日時タイムスタンプ：1667041873
+[29-Oct-2022 11:11:13 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 11:11:13 UTC] デバッグ：POST送信があります
+[29-Oct-2022 11:11:13 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 11:11:13 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => mikanmikan
+    [id] => 6
+)
+
+[29-Oct-2022 11:11:13 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 11:11:13 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 11:11:48 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 11:11:48 UTC] デバッグ：ログインページ
+[29-Oct-2022 11:11:48 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 11:11:48 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 11:11:48 UTC] デバッグ：セッション ID：mb198rrijk57pe805sgivvue40
+[29-Oct-2022 11:11:48 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 11:11:48 UTC] デバッグ：現在日時タイムスタンプ：1667041908
+[29-Oct-2022 11:11:48 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 11:11:48 UTC] デバッグ：POST送信があります
+[29-Oct-2022 11:11:48 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 11:11:48 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => inuinu
+    [id] => 2
+)
+
+[29-Oct-2022 11:11:48 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 11:11:48 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 11:13:26 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 11:13:26 UTC] デバッグ：ログインページ
+[29-Oct-2022 11:13:26 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 11:13:26 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 11:13:26 UTC] デバッグ：セッション ID：2i6t4ln325jdsou5fn9po92ind
+[29-Oct-2022 11:13:26 UTC] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Oct-2022 11:13:26 UTC] デバッグ：現在日時タイムスタンプ：1667042006
+[29-Oct-2022 11:13:26 UTC] デバッグ：未ログインユーザーです
+[29-Oct-2022 11:13:26 UTC] デバッグ：POST送信があります
+[29-Oct-2022 11:13:26 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 11:13:26 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$8Tfyx2YiXbqRDunXBSrM2.WLynf9pQ5duT.gS4DUSOdMszs0UZW.6
+    [id] => 12
+)
+
+[29-Oct-2022 11:13:26 UTC] デバッグ：パスワードがマッチしました。
+[29-Oct-2022 11:13:26 UTC] デバッグ：ログイン保持にチェックはありません。
+[29-Oct-2022 11:13:26 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667042006
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[29-Oct-2022 11:13:26 UTC] デバッグ：マイページへ遷移します
+[29-Oct-2022 11:13:26 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[29-Oct-2022 11:13:59 UTC] デバッグ：[[[[[[[[[[
+[29-Oct-2022 11:13:59 UTC] デバッグ：ログインページ
+[29-Oct-2022 11:13:59 UTC] デバッグ：]]]]]]]]]]]
+[29-Oct-2022 11:13:59 UTC] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[29-Oct-2022 11:13:59 UTC] デバッグ：セッション ID：ndlquftit83m92t8se28mdtoi2
+[29-Oct-2022 11:13:59 UTC] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667042006
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[29-Oct-2022 11:13:59 UTC] デバッグ：現在日時タイムスタンプ：1667042039
+[29-Oct-2022 11:13:59 UTC] デバッグ：ログイン期限日時タイムスタンプ：1667045606
+[29-Oct-2022 11:13:59 UTC] デバッグ：ログイン済みユーザーです。
+[29-Oct-2022 11:13:59 UTC] デバッグ：ログイン有効期限内です。
+[29-Oct-2022 11:13:59 UTC] デバッグ：マイページへ遷移します
+[29-Oct-2022 11:13:59 UTC] デバッグ：POST送信があります
+[29-Oct-2022 11:13:59 UTC] デバッグ：バリデーションOK
+[29-Oct-2022 11:13:59 UTC] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => mikanmikan
+    [id] => 6
+)
+
+[29-Oct-2022 11:13:59 UTC] デバッグ：パスワードがアンマッチです。
+[29-Oct-2022 11:13:59 UTC] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[30-Oct-2022 09:17:52 Asia/Tokyo] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[30-Oct-2022 09:17:53 Asia/Tokyo] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[30-Oct-2022 09:18:55 Asia/Tokyo] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[30-Oct-2022 09:18:55 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667089135
+    [login_limit] => 3600
+    [user_id] => 14
+)
+
+[31-Oct-2022 14:29:34 Asia/Tokyo] PHP Notice:  date_default_timezone_set(): Timezone ID 'Tokyo/Asia' is invalid in /Applications/MAMP/htdocs/igo_club/signUp.php on line 8
+[31-Oct-2022 14:33:08 Asia/Tokyo] PHP Warning:  session_save_path(): Session save path cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 21
+[31-Oct-2022 14:33:08 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 22
+[31-Oct-2022 14:33:08 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 23
+[31-Oct-2022 14:33:08 Asia/Tokyo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 24
+[31-Oct-2022 14:33:08 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /Applications/MAMP/htdocs/igo_club/function.php on line 25
+[01-Nov-2022 09:25:41 Asia/Tokyo] PHP Warning:  session_save_path(): Session save path cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 21
+[01-Nov-2022 09:25:41 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 22
+[01-Nov-2022 09:25:41 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 23
+[01-Nov-2022 09:25:41 Asia/Tokyo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 24
+[01-Nov-2022 09:25:41 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /Applications/MAMP/htdocs/igo_club/function.php on line 25
+[01-Nov-2022 09:25:49 Asia/Tokyo] PHP Warning:  session_save_path(): Session save path cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 21
+[01-Nov-2022 09:25:49 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 22
+[01-Nov-2022 09:25:49 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 23
+[01-Nov-2022 09:25:49 Asia/Tokyo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 24
+[01-Nov-2022 09:25:49 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /Applications/MAMP/htdocs/igo_club/function.php on line 25
+[01-Nov-2022 13:35:59 Asia/Tokyo] PHP Warning:  session_save_path(): Session save path cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 21
+[01-Nov-2022 13:35:59 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 22
+[01-Nov-2022 13:35:59 Asia/Tokyo] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 23
+[01-Nov-2022 13:35:59 Asia/Tokyo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /Applications/MAMP/htdocs/igo_club/function.php on line 24
+[01-Nov-2022 13:35:59 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /Applications/MAMP/htdocs/igo_club/function.php on line 25
+[01-Nov-2022 13:40:31 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /Applications/MAMP/htdocs/igo_club/signUp.php:16
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/signUp.php(16): implode('always')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/signUp.php on line 16
+[01-Nov-2022 13:46:37 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667277997
+    [login_limit] => 3600
+    [user_id] => 15
+)
+
+[01-Nov-2022 14:51:13 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function nesDateTime() in /Applications/MAMP/htdocs/igo_club/function.php:114
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/mypage.php(5): require()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 114
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：セッション ID：fstc6t5jub8us1gjtt29vnnvj2
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667277997
+    [login_limit] => 3600
+    [user_id] => 15
+)
+
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351639
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667281597
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：セッション ID：po9h2qffh1bvgsgkfkk1o7k2n7
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351639
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:13:59 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：セッション ID：t33d23n7ue6i191fvlk3at13vg
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351640
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:14:00 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：セッション ID：953h9djldh49co1ts61jpip5qq
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351654
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:14:14 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 10:14:14 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function validMinLength() in /Applications/MAMP/htdocs/igo_club/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/login.php on line 38
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：セッション ID：kd2oh8703390aiohlnc3mua07q
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351709
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:15:09 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：セッション ID：edesuu4llikocq8dcsdi3oajb4
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351711
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:15:11 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：セッション ID：vueu7oi6qtomps0dorij9mou89
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667351731
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：バリデーションOK
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$8Tfyx2YiXbqRDunXBSrM2.WLynf9pQ5duT.gS4DUSOdMszs0UZW.6
+    [id] => 12
+)
+
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667351731
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：マイページへ遷移します
+[02-Nov-2022 10:15:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:43:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 10:43:09 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 10:43:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 10:43:09 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 10:43:09 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[02-Nov-2022 10:43:09 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 10:43:20 Asia/Tokyo] PHP Warning:  Undefined array key "uer_id" in /Applications/MAMP/htdocs/igo_club/withdraw.php on line 16
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667353400
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：トップページへ遷移します
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：セッション ID：4u4e34qeknkskfluav7eimdkvc
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667353400
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:43:20 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：セッション ID：fbhosudler3n46tka72cfibokk
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667353458
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：バリデーションOK
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$8Tfyx2YiXbqRDunXBSrM2.WLynf9pQ5duT.gS4DUSOdMszs0UZW.6
+    [id] => 12
+)
+
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667353458
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：マイページへ遷移します
+[02-Nov-2022 10:44:18 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：セッション ID：sf6ud3ee4h8kj0pmr5ft42ijpa
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667362911
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:21:51 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：セッション ID：9cqp2ps4ih5jvvobp513vk4o1t
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667362930
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：バリデーションOK
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$8Tfyx2YiXbqRDunXBSrM2.WLynf9pQ5duT.gS4DUSOdMszs0UZW.6
+    [id] => 12
+)
+
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667362930
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：マイページへ遷移します
+[02-Nov-2022 13:22:10 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:22:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:22:13 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 13:22:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:22:13 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 13:22:13 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[02-Nov-2022 13:22:13 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 13:22:26 Asia/Tokyo] PHP Warning:  Undefined array key "uer_id" in /Applications/MAMP/htdocs/igo_club/withdraw.php on line 16
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667362946
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：トップページへ遷移します
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：セッション ID：98nv4uf8mv2789p550i1no780k
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667362946
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:22:26 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：セッション ID：bi0i6ubebraqtl9ihns7a1vs96
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667363048
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:24:08 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：セッション ID：325iofqalo5dak5ec7h43sa1ca
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667363057
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：バリデーションOK
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => inuinu
+    [id] => 2
+)
+
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：パスワードがアンマッチです。
+[02-Nov-2022 13:24:17 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：セッション ID：pd51kcq0lkoqca5alpdtr19sss
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667363067
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：バリデーションOK
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$8Tfyx2YiXbqRDunXBSrM2.WLynf9pQ5duT.gS4DUSOdMszs0UZW.6
+    [id] => 12
+)
+
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667363067
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：マイページへ遷移します
+[02-Nov-2022 13:24:27 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:24:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:24:30 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 13:24:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:24:30 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 13:24:30 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[02-Nov-2022 13:24:30 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667363071
+    [login_limit] => 3600
+    [user_id] => 12
+)
+
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：トップページへ遷移します
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：セッション ID：37de0if2n305pbcb8urf5jnh8k
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667363071
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:24:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：セッション ID：p1us91cm63g5std6ioa42c1l7u
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667364066
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：POST送信があります
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：バリデーションOK
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$mBaw9dO.co1PUtNShADZ4eaMC/jLvJK.bK/mj4Gz4BEOiEgJaGPsS
+    [id] => 13
+)
+
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667364066
+    [login_limit] => 3600
+    [user_id] => 13
+)
+
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：マイページへ遷移します
+[02-Nov-2022 13:41:06 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：セッション ID：1l2mpap20ilt9pa2h0podac5gn
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667364066
+    [login_limit] => 3600
+    [user_id] => 13
+)
+
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667364087
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667367666
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：ログアウトします
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：ログインページ
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：セッション ID：bkhp060lfsft50arej508alfjj
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667364087
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：未ログインユーザーです
+[02-Nov-2022 13:41:27 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[02-Nov-2022 15:48:17 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "user_id" in /Applications/MAMP/htdocs/igo_club/mypage.php:53
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/mypage.php on line 53
+[02-Nov-2022 15:48:30 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "id" in /Applications/MAMP/htdocs/igo_club/mypage.php:53
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/mypage.php on line 53
+[02-Nov-2022 15:48:55 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "id" in /Applications/MAMP/htdocs/igo_club/mypage.php:53
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/mypage.php on line 53
+[02-Nov-2022 15:48:56 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "id" in /Applications/MAMP/htdocs/igo_club/mypage.php:53
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/mypage.php on line 53
+[02-Nov-2022 15:49:17 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "user_id" in /Applications/MAMP/htdocs/igo_club/mypage.php:53
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/mypage.php on line 53
+[03-Nov-2022 06:57:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 06:57:08 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：セッション ID：omhenpj4vchhcecgr172boo3a4
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426229
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：ログアウトします
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：セッション ID：0li4j3meq2vuvvd0hfqu86olp4
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426229
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 06:57:09 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 06:59:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667426347
+    [login_limit] => 3600
+    [user_id] => 16
+)
+
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：セッション ID：4gne5j0ph09c3gp0akfnk2aal0
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667426347
+    [login_limit] => 3600
+    [user_id] => 16
+)
+
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426369
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667429947
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：ログアウトします
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：セッション ID：sbnbk4cemvcgp2siufmqq304pp
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426369
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 06:59:29 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：セッション ID：gbkj7qho57jttbh5j36ng4ddu3
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426373
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 06:59:33 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 06:59:33 Asia/Tokyo] PHP Warning:  Undefined array key "common" in /Applications/MAMP/htdocs/igo_club/login.php on line 119
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：セッション ID：5i3ql6ftsae4ntse96b1nuve2u
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426497
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:01:37 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：セッション ID：auve92f785nqsd2tagrt7u8poe
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426513
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:01:53 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：セッション ID：cg8clpcurbr2p9079bndh879r1
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426517
+[03-Nov-2022 07:01:57 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：セッション ID：mn2t14lirubom9qqsmmee63heb
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426527
+[03-Nov-2022 07:02:07 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：セッション ID：ummesg77j6l1cstc5gktnirgkd
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426548
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:02:28 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：セッション ID：83pkjluajl27v4g4l4s31b4dp1
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426551
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:02:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:02:31 Asia/Tokyo] PHP Warning:  Undefined array key "common" in /Applications/MAMP/htdocs/igo_club/login.php on line 119
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：セッション ID：pjjvgmuu1r2hgnk1v0a5aft8s5
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426904
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$mBaw9dO.co1PUtNShADZ4eaMC/jLvJK.bK/mj4Gz4BEOiEgJaGPsS
+    [id] => 13
+)
+
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667426904
+    [login_limit] => 3600
+    [user_id] => 13
+)
+
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：マイページへ遷移します
+[03-Nov-2022 07:08:24 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：セッション ID：abljt3saipte3fnh8381d47k69
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667426904
+    [login_limit] => 3600
+    [user_id] => 13
+)
+
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426906
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667430504
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：ログアウトします
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：セッション ID：pf5hhf9no9vsf27fn96cp6o39p
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426906
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:08:26 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：セッション ID：uplmnk79v4jab0veqakbv2pu3g
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426920
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 07:08:40 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$mBaw9dO.co1PUtNShADZ4eaMC/jLvJK.bK/mj4Gz4BEOiEgJaGPsS
+    [id] => 13
+)
+
+[03-Nov-2022 07:08:41 Asia/Tokyo] デバッグ：パスワードがアンマッチです。
+[03-Nov-2022 07:08:41 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：セッション ID：1aih5k32ldpf94lgq0g498mvuh
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667426952
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => inuinu
+    [id] => 2
+)
+
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：パスワードがアンマッチです。
+[03-Nov-2022 07:09:12 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：セッション ID：bjcdglgoac51dpndj6mdc0khd5
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667427184
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:13:04 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:13:04 Asia/Tokyo] PHP Warning:  Undefined array key "common" in /Applications/MAMP/htdocs/igo_club/login.php on line 119
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：セッション ID：htfdsa4unolkq7gloic4u1a57j
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667427346
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [id] => 16
+)
+
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667427346
+    [login_limit] => 3600
+    [user_id] => 16
+)
+
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：マイページへ遷移します
+[03-Nov-2022 07:15:46 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[03-Nov-2022 07:23:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 07:23:21 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 07:23:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 07:23:21 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getUser() in /Applications/MAMP/htdocs/igo_club/passEdit.php:10
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 10
+[03-Nov-2022 09:36:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:36:13 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 09:36:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:36:13 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function debnug() in /Applications/MAMP/htdocs/igo_club/function.php:163
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/passEdit.php(10): getUser('16')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 163
+[03-Nov-2022 09:36:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:36:34 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 09:36:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:36:34 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 09:36:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined method PDOException::getMesssage() in /Applications/MAMP/htdocs/igo_club/function.php:176
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/passEdit.php(10): getUser('16')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/function.php on line 176
+[03-Nov-2022 09:41:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:41:27 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 09:41:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:41:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 09:41:27 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 09:41:27 Asia/Tokyo] PHP Warning:  Undefined variable $siteTitle in /Applications/MAMP/htdocs/igo_club/head.php on line 9
+[03-Nov-2022 09:58:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:58:26 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 09:58:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 09:58:26 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 09:58:26 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:06:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:06:09 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:06:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:06:09 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:06:09 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:09:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:09:45 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:09:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:09:45 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:09:45 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:09:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:09:47 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:09:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:09:47 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:09:47 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:10:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:10:49 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:10:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:10:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:43:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:43:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:43:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:43:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:43:07 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:43:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:43:24 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:43:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:43:24 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:43:24 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:45:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:00 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:45:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:00 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:45:00 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:45:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:23 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:45:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:23 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:45:23 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:45:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:42 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:45:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:45:42 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:45:58 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnige.seite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:45:58 Asia/Tokyo] PHP Warning:  Undefined variable $pass_new_re in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 24
+[03-Nov-2022 10:46:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:46:25 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:46:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:46:25 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:46:25 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:46:42 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:46:42 Asia/Tokyo] PHP Warning:  Undefined array key "password" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 31
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:48:09 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:50:03 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:50:04 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:50:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:05 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:50:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:05 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:50:05 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:50:20 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:50:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:33 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:50:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:33 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:50:33 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$o4k1QZZBY2Cl4mc6v2XJe..CpryT.WCN5a6gTGSwjP76yscL3Fi1C
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 10:50:47 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 10:50:47 Asia/Tokyo] PHP Warning:  Undefined array key "username" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 53
+[03-Nov-2022 10:53:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:53:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:53:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:53:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:53:07 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnige.seite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:53:18 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnige.seite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 10:58:17 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 10:58:31 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => 
+    [newPassword] => 
+    [reNewPassword] => 
+)
+
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:02:46 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => 
+    [newPassword] => 
+    [reNewPassword] => 
+)
+
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:03:01 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:03:04 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => 
+    [newPassword] => 
+    [reNewPassword] => 
+)
+
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:11:21 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:15:03 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:24:29 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 16
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$H/0k/IeiWIdi833YtEmO9uKN5OPWwyJWthbRLc8m40ZN5bd9J5YXO
+    [login_time] => 2022-11-03 06:59:07
+    [update_date] => 2022-11-03 06:59:07
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnigeseite
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:24:53 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:26:17 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667442377
+    [login_limit] => 3600
+    [user_id] => 17
+    [msg_success] => パスワードを変更しました
+)
+
+[03-Nov-2022 11:26:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:26:18 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:26:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:26:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:26:18 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$e4GmLHiw8WXM7yNB8reH.ezIwDPBTIf867jpP.kEfn1PUyi8paCP6
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$e4GmLHiw8WXM7yNB8reH.ezIwDPBTIf867jpP.kEfn1PUyi8paCP6
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnige
+    [newPassword] => sunny
+    [reNewPassword] => sunny
+)
+
+[03-Nov-2022 11:26:31 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$e4GmLHiw8WXM7yNB8reH.ezIwDPBTIf867jpP.kEfn1PUyi8paCP6
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sonnige
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:26:50 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:26:51 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 11:26:51 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 11:26:51 Asia/Tokyo] PHP Warning:  Undefined variable $nickname in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 58
+[03-Nov-2022 11:32:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:32:03 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:32:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:32:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:32:03 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$i/FagIYbTcD.lZlwUsgsPupxKTE2YJ1UJleknZbxn2EwZHn7h9W9C
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$i/FagIYbTcD.lZlwUsgsPupxKTE2YJ1UJleknZbxn2EwZHn7h9W9C
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sunnyside
+    [newPassword] => onthesunny
+    [reNewPassword] => onthesunny
+)
+
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 11:33:10 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 11:46:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:46:47 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:46:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:46:47 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:46:47 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$wL1zYaUi1YLNZds4jCFRJeEf.1EjwFwNSaL3AXGL4Z5NmJnfROh2G
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$wL1zYaUi1YLNZds4jCFRJeEf.1EjwFwNSaL3AXGL4Z5NmJnfROh2G
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => onthesunny
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:47:01 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:47:02 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 11:47:02 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$AOXzw4vbd4NWG1GSB0eU0.56MRAdzGOOzv/vgzXhuxX9eji/DK32m
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => onthesunny
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 11:47:49 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$AOXzw4vbd4NWG1GSB0eU0.56MRAdzGOOzv/vgzXhuxX9eji/DK32m
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sunnyside
+    [newPassword] => onthesunny
+    [reNewPassword] => onthesunny
+)
+
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 11:48:08 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$SFX4hRvTxTV5Ufw..bqsq.axJoZkhg9rJVDCTQmy/EImph.1pA8HW
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sunnyside
+    [newPassword] => onthesunny
+    [reNewPassword] => onthesunny
+)
+
+[03-Nov-2022 15:32:54 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$SFX4hRvTxTV5Ufw..bqsq.axJoZkhg9rJVDCTQmy/EImph.1pA8HW
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sunnyside
+    [newPassword] => onthestreet
+    [reNewPassword] => onthestreet
+)
+
+[03-Nov-2022 15:33:11 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$SFX4hRvTxTV5Ufw..bqsq.axJoZkhg9rJVDCTQmy/EImph.1pA8HW
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sunnyside
+    [newPassword] => onthestreet
+    [reNewPassword] => onthestreet
+)
+
+[03-Nov-2022 15:33:28 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$SFX4hRvTxTV5Ufw..bqsq.axJoZkhg9rJVDCTQmy/EImph.1pA8HW
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => onthesunny
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 15:33:49 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$qlFVdWRH1O3tBEjJQGadAOHAWsr3TatZZVyHW/5O2W.wZApbnKedy
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => sunnyside
+    [newPassword] => onthestreet
+    [reNewPassword] => onthestreet
+)
+
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 15:34:30 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 15:34:31 Asia/Tokyo] デバッグ：メールを送信しました
+[03-Nov-2022 15:34:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:34:34 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:34:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:34:34 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:34:34 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$n3rh9HG8sSnFwc5bRu.b8uV.BKBxBn8JmBf3PlE9We/ibr8VivD0e
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$n3rh9HG8sSnFwc5bRu.b8uV.BKBxBn8JmBf3PlE9We/ibr8VivD0e
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：POST送信があります
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [oldPassword] => onthestreet
+    [newPassword] => sunnyside
+    [reNewPassword] => sunnyside
+)
+
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：未入力チェックOK
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：バリデーションOK
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：クエリ成功
+[03-Nov-2022 15:35:42 Asia/Tokyo] デバッグ：メールを送信しました
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：セッション ID：ka7of9qo2e3mgoah6rlod60q6n
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667442377
+    [login_limit] => 3600
+    [user_id] => 17
+    [msg_success] => パスワードを変更しました
+)
+
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667458562
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667445977
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：ログアウトします
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：ログインページ
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：セッション ID：1thrdnn127ena398gssmdc4tph
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667458562
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：未ログインユーザーです
+[03-Nov-2022 15:56:02 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：「「パスワード再発行メール送信ページ「「「
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：セッション ID：trsn82gc3488pmninq0rokkik8
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[04-Nov-2022 10:35:15 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667525715
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：「「パスワード再発行メール送信ページ「「「
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：セッション ID：6vi7avodm9rvgsvdoqg55jjomm
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[04-Nov-2022 10:57:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667527059
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：「「パスワード再発行メール送信ページ「「「
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：セッション ID：5jb350rpvt8a35l00el41b2b5c
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667527066
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：POST送信があります
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [email] => sonnige.seite.str@gmail.com
+)
+
+[04-Nov-2022 10:57:46 Asia/Tokyo] デバッグ：未入力チェックOK
+[04-Nov-2022 10:57:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function validMaxLen() in /Applications/MAMP/htdocs/igo_club/passRemindSend.php:20
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/passRemindSend.php on line 20
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：「「パスワード再発行メール送信ページ「「「
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：セッション ID：qofdjs7ce0eqf0jul3susrtils
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667527139
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：POST送信があります
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [email] => sonnige.seite.str@gmail.com
+)
+
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：未入力チェックOK
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：バリデーションOK
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：クエリ成功、DB登録あり
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：メールを送信しました
+[04-Nov-2022 10:58:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：セッション ID：cu2tjn64k68v10hdhbtv6q95l7
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 14:49:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667540976
+[04-Nov-2022 14:49:36 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getSessionFlash() in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php:90
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php on line 90
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：セッション ID：q3oaf92bj7heheltnds12s65jn
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 14:59:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541564
+[04-Nov-2022 14:59:24 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getSessionFlash() in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php:90
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php on line 90
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：セッション ID：p2shvj480l2v7a3iuiocihg3rs
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 14:59:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541566
+[04-Nov-2022 14:59:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getSessionFlash() in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php:90
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php on line 90
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：セッション ID：hsuetcci90euuv7jkrlq6vk3sc
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 15:04:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541853
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：「「パスワード再発行メール送信ページ「「「
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：セッション ID：br1f998s4ulp963mr8ph9m5ojn
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 15:04:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541875
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：「「パスワード再発行メール送信ページ「「「
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：セッション ID：d5rgl87plvf4m6cvddd692bnvt
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [auth_key] => 3ERVUChl
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667528939
+)
+
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541881
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：POST送信があります
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [email] => sonnige.seite.str@gmail.com
+)
+
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：未入力チェックOK
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：バリデーションOK
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：クエリ成功、DB登録あり
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：メールを送信しました
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => rWFAjFvC
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667543681
+)
+
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：セッション ID：gjbss89pjih967dg37a6uuv1tk
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+    [auth_key] => rWFAjFvC
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667543681
+)
+
+[04-Nov-2022 15:04:41 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541881
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：セッション ID：u11per7eovuebv4bujcdfbq40m
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [auth_key] => rWFAjFvC
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667543681
+)
+
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667541898
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：POST送信があります。
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [token] => rWFAjFvC
+)
+
+[04-Nov-2022 15:04:58 Asia/Tokyo] デバッグ：未入力チェックOK
+[04-Nov-2022 15:04:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function validLength() in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php:23
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/passRemindReceive.php on line 23
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：セッション ID：ivc2i8idjrc169mj57qbrkri5o
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [auth_key] => rWFAjFvC
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667543681
+)
+
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667542629
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：POST送信があります。
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [token] => rWFAjFvC
+)
+
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：未入力チェックOK
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：バリデーションOK
+[04-Nov-2022 15:17:09 Asia/Tokyo] デバッグ：認証OK
+[04-Nov-2022 15:17:09 Asia/Tokyo] エラー発生：SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list'
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：「パスワード再発行認証キー入力ページ「「「「
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：セッション ID：r019muep0st6am9sr7jqh451jv
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [auth_key] => rWFAjFvC
+    [auth_email] => sonnige.seite.str@gmail.com
+    [auth_key_limit] => 1667543681
+)
+
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667542768
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：POST送信があります。
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：POST情報：Array
+(
+    [token] => rWFAjFvC
+)
+
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：未入力チェックOK
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：バリデーションOK
+[04-Nov-2022 15:19:28 Asia/Tokyo] デバッグ：認証OK
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：クエリ成功
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：メールを送信しました
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => メールを送信しました
+)
+
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：ログインページ
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：セッション ID：bf37sqbveefj77a1bg84u2dc28
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+)
+
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667542769
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：未ログインユーザーです
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：ログインページ
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：セッション ID：3s0kv7f0uf6q3fgqagmpuqh1aq
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+)
+
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667542769
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：未ログインユーザーです
+[04-Nov-2022 15:19:29 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：ログインページ
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：セッション ID：m6blbfj12h4t1q741qr4g9te1i
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+)
+
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667542792
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：未ログインユーザーです
+[04-Nov-2022 15:19:52 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：ログインページ
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：セッション ID：08ptf76qnco3u8o4klsol1mejq
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+)
+
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667542800
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：未ログインユーザーです
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：POST送信があります
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：バリデーションOK
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [id] => 17
+)
+
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [login_date] => 1667542800
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：マイページへ遷移します
+[04-Nov-2022 15:20:00 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：セッション ID：d20s551t82g3f079g4vui8sjr4
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [msg_success] => 
+    [login_date] => 1667542800
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667613334
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667546400
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：セッション ID：5as8v19l5n6eqihkfk35g430dm
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667613334
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 10:55:34 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：セッション ID：vas04t94u3rb6lrdppcrcab0hf
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667623677
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 13:47:57 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：セッション ID：d4o5ao7rld0rsbubav5tersaup
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667623711
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 13:48:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 15:18:14 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 15:18:17 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 15:31:31 Asia/Tokyo] PHP Warning:  Undefined variable $email in /Applications/MAMP/htdocs/igo_club/sendMail.php on line 10
+[05-Nov-2022 15:50:37 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 15:51:43 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:01:33 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:04:02 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:05:53 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:24:12 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:24:21 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：メールを送信しました
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：セッション ID：6e5enmdd2lne8oji95i9e66li4
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667633189
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 16:26:29 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：セッション ID：j9m9ltvhst7umvut6meq3q7rj1
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667633671
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 16:34:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：セッション ID：n0biigkkrd2jaoe2f5oce1okao
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667633683
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 16:34:43 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：ログインページ
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：セッション ID：flcu8adtt6frd5ct4qdg431rvc
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667635861
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：未ログインユーザーです
+[05-Nov-2022 17:11:01 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：セッション ID：ifers2d2o7d0b5ejk185rvmd03
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667696169
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 09:56:09 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：セッション ID：b9rdea6m23jv08ru120rj2e92m
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667696198
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：POST送信があります
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：バリデーションOK
+[06-Nov-2022 09:56:38 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [id] => 17
+)
+
+[06-Nov-2022 09:56:39 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[06-Nov-2022 09:56:39 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[06-Nov-2022 09:56:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667696199
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[06-Nov-2022 09:56:39 Asia/Tokyo] デバッグ：マイページへ遷移します
+[06-Nov-2022 09:56:39 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 09:56:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[06-Nov-2022 09:56:53 Asia/Tokyo] デバッグ：「「「「退会ページ「「「「「
+[06-Nov-2022 09:56:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[06-Nov-2022 09:56:53 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[06-Nov-2022 09:56:53 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[06-Nov-2022 09:56:53 Asia/Tokyo] デバッグ：画面表示処理終了<<<<<<<<<<<<<<<
+[06-Nov-2022 09:56:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 09:56:59 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 09:56:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 09:56:59 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 09:56:59 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 09:58:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 09:58:55 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 09:58:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 09:58:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 09:58:55 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 10:00:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 10:00:14 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 10:00:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 10:00:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 10:00:14 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 10:00:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 10:00:56 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 10:00:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 10:00:56 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 10:00:56 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 10:01:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 10:01:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 10:01:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 10:01:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 10:01:07 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:02:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:02:09 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:02:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:02:09 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:02:09 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:02:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:02:12 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:02:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:02:12 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:02:12 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:04:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:04:14 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:04:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:04:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:04:14 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:04:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:04:15 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:04:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:04:15 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:04:15 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:04:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:04:26 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:04:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:04:26 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:04:26 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:05:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:05:02 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:05:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:05:02 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:05:02 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:05:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:05:03 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:05:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:05:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:05:03 Asia/Tokyo] デバッグ：取得したユーザー情報：Array
+(
+    [id] => 17
+    [email] => sonnige.seite.str@gmail.com
+    [nickname] => サニー
+    [level] => １５級
+    [attendance] => byChance
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [login_time] => 2022-11-03 11:26:17
+    [update_date] => 2022-11-03 11:26:17
+    [delete_flg] => 0
+)
+
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：セッション ID：o5126ft31in7bolutgovnhpi0q
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667696213
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667700885
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667699813
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：セッション ID：elj3374a2uf234tic28jo0e2qi
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667700885
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 11:14:45 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：セッション ID：9stco9csbu932t2rcqvft4e1fq
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667700892
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 11:14:52 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 11:15:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:15:16 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:15:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:15:16 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 10
+[06-Nov-2022 11:15:16 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:15:16 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 11:16:17 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:16:17 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:16:17 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:19:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:19:59 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:19:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:20:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:20:08 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 11:20:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 11:20:08 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 11:20:08 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 11:20:08 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:38:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:38:30 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:38:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:38:30 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:38:30 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:38:30 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:39:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:39:38 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:39:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:39:38 Asia/Tokyo] PHP Warning:  Undefined array key "id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:39:38 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:39:38 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:39:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:39:40 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:39:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:39:40 Asia/Tokyo] PHP Warning:  Undefined array key "id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:39:40 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:39:40 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:39:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:39:42 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:39:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:39:42 Asia/Tokyo] PHP Warning:  Undefined array key "id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:39:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:39:42 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:41:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:16 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:41:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:16 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:41:16 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:41:16 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:41:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:18 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:41:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:18 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:41:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:41:18 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:41:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:19 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:41:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:19 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:41:19 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:41:19 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:41:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:45 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:41:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:41:45 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:41:45 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:41:45 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:42:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:06 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:42:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:06 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:42:06 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:42:06 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:42:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:08 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:42:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:08 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:42:08 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:42:08 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:42:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:51 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:42:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:51 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:42:51 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:42:51 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:42:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:52 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:42:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:42:52 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:42:52 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:42:52 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:43:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:43:13 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:43:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:43:13 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:43:13 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:43:13 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:43:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:43:15 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:43:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:43:15 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:43:15 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:43:15 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:48:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:48:27 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:48:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:48:27 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:48:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:48:27 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:48:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:48:28 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:48:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:48:28 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:48:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:48:28 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:49:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:49:13 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:49:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:49:13 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:49:13 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:49:13 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:49:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:49:15 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:49:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:49:15 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:49:15 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:49:15 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:49:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:49:44 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:49:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:49:44 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:49:44 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:49:44 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:50:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:32 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:50:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:32 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:50:32 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:50:32 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:50:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:33 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:50:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:33 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:50:33 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:50:33 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:34 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:34 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:50:34 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:50:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:40 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:50:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:50:40 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:50:40 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:50:40 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:51:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:51:12 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:51:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:51:12 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:51:12 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:51:12 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 14:51:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:51:43 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 14:51:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 14:51:43 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 14:51:43 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 14:51:43 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:18:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:18:52 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:18:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:18:52 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:18:52 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:18:52 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:18:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:18:54 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:18:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:18:54 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:18:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:18:54 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:19:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:19:13 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:19:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:19:13 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:19:13 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:19:13 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:19:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:19:14 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:19:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:19:14 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:19:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:19:14 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:19:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:19:49 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:19:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:19:49 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:19:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:19:49 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:21:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:21:14 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:21:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:21:14 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:21:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:21:14 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:21:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:21:15 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:21:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:21:15 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:21:15 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:21:15 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:22:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:22:27 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:22:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:22:27 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:22:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:22:27 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:22:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:22:28 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:22:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:22:28 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:22:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:22:28 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:22:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:22:55 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:22:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:22:55 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:22:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:22:55 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:23:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:06 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:23:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:06 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:23:06 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:23:06 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:23:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:23:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:07 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:23:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:23:07 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:23:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:36 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:23:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:36 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:23:36 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:23:36 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:23:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:37 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:23:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:37 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:23:37 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:23:37 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:23:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:55 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:23:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:55 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:23:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:23:55 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:23:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:56 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:23:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:23:56 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:23:56 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:23:56 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:24:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:24:10 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:24:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:24:10 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:24:10 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:24:10 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:31:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:31:45 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:31:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:31:45 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:31:45 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:31:45 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:31:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:31:59 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:31:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:31:59 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:31:59 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:31:59 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:32:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:32:01 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:32:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:32:01 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:32:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:32:01 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:33:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:33:03 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:33:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:33:03 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:33:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:33:03 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:35:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:35:50 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:35:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:35:50 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:35:50 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:35:50 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:36:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:36:32 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:36:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:36:32 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:36:32 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:36:32 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:40:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:40:32 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:40:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:40:32 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:40:32 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:40:32 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:41:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:41:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:41:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:41:07 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:41:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:41:07 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:42:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:01 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:42:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:01 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:42:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:42:01 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:42:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:02 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:42:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:02 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:42:02 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:42:02 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:42:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:28 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:42:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:28 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:42:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:42:28 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:42:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:54 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:42:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:42:54 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:42:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:42:54 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:43:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:43:20 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:43:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:43:20 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:43:20 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:43:20 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:44:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:44:00 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:44:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:44:00 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:44:00 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:44:00 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:44:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:44:01 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:44:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:44:01 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:44:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:44:01 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:44:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:44:37 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:44:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:44:37 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:44:37 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:44:37 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:45:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:45:43 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:45:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:45:43 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:45:43 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:45:43 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:46:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:46:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:46:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:46:07 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:46:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:46:07 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:46:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:46:31 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:46:31 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:46:31 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:46:31 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:46:31 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 15:54:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:54:07 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 15:54:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 15:54:07 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 15:54:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 15:54:07 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：セッション ID：kh4jc87nkvqgesf2s82l8rn996
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667734269
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：セッション ID：b75shf58totpt7sanlu4arsm78
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667734269
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:31:09 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:33:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:33:55 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:33:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:33:55 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:33:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:33:55 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:36:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:36:20 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:36:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:36:20 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:36:20 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:36:20 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:36:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:36:22 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:36:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:36:22 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:36:22 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:36:22 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:44:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:19 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:44:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:19 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:44:19 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:44:19 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:44:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:45 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:44:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:45 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:44:45 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:44:45 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:44:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:46 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:44:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:46 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:44:46 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:44:46 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:47 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:44:47 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:44:47 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:45:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:45:22 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:45:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:45:22 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:45:22 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:45:22 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:45:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:45:23 Asia/Tokyo] デバッグ：「パスワード変更ページ「「「「「「「「
+[06-Nov-2022 20:45:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「
+[06-Nov-2022 20:45:23 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/passEdit.php on line 11
+[06-Nov-2022 20:45:23 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[06-Nov-2022 20:45:23 Asia/Tokyo] デバッグ：取得したユーザー情報：
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：セッション ID：ks35l5ium4085013dab4dekbdl
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735134
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:45:34 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：セッション ID：hgh008dcqnkfe732gan0b3hvv4
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735136
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:45:36 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：セッション ID：3qm1aus7oj5vnau59jin6bnifc
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735310
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:48:30 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：セッション ID：csrdc26is3m65vjls12aer3tme
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735361
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:49:21 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：セッション ID：a7484vjhn0r8ela9snq9rhujih
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735399
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:49:59 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：セッション ID：9ooqb98eculj28g3d2pnqlg160
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735541
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:52:21 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：セッション ID：0jecoqq4b37b1979crj4gn5p7u
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735663
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:54:23 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：セッション ID：j8370jd617q7s7nrbk2hinmv0o
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667735667
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 20:54:27 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：セッション ID：s4ul7u4tuc7ft0h05cnvi5d4oh
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667738880
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 21:48:00 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：ログインページ
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：セッション ID：aq97pnrkih2un7ks286e00cma2
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667738911
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[06-Nov-2022 21:48:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：セッション ID：kf8n47vsh7rebu4ckjrh606cha
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667784717
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：未ログインユーザーです
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：セッション ID：tlep99t32eb26ihnu4266a0qp7
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667784717
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：未ログインユーザーです
+[07-Nov-2022 10:31:57 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：セッション ID：52grtdr30hve5nlibm65lod9d6
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667784748
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：未ログインユーザーです
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：POST送信があります
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：バリデーションOK
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$TDiDm4KZWKy6v1B4Ql9AlOg.p0mckYisCaYQD052SidGCELoHssza
+    [id] => 17
+)
+
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667784748
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：マイページへ遷移します
+[07-Nov-2022 10:32:28 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：セッション ID：v98pka52vbjl1hrgsnugebm6o9
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667784748
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667787243
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667788348
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：マイページへ遷移します
+[07-Nov-2022 11:14:03 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：セッション ID：h50if9pkuqi01tqkm57n806slp
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667787243
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667787255
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667790843
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：マイページへ遷移します
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：セッション ID：b253p4h1q70kodflbev3634rta
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667787255
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667787255
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667790855
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：マイページへ遷移します
+[07-Nov-2022 11:14:15 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：セッション ID：fdaoghol5dlj40sh2qa5mqlgul
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667787255
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667787265
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667790855
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：マイページへ遷移します
+[07-Nov-2022 11:14:25 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：ログインページ
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：セッション ID：h1s310ka07kfgvmd75bb4vig52
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1667787265
+    [login_limit] => 3600
+    [user_id] => 17
+)
+
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1667787291
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1667790865
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：ログイン有効期限内です。
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：マイページへ遷移します
+[07-Nov-2022 11:14:51 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
