@@ -1,5 +1,5 @@
 <?php 
-require('function.php');
+require('../function/function.php');
 debug('「「「「「「「「「「「「「「');
 debug('「「「ログアウトページ');
 debug('「「「「「「「「「「「「「「');

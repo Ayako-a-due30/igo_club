@@ -3,14 +3,14 @@
     ini_set('display_errors','On');
 
 
-require('function.php');
+require('../function/function.php');
 
 debug('[[[[[[[[[[');
 debug('ログインページ');
 debug(']]]]]]]]]]]');
 debugLogStart();
 
-require('auth.php');
+require('../function/auth.php');
 
 //-----------------
 //ログイン画面処理
@@ -86,14 +86,8 @@ debug('画面表示終了<<<<<<<<<<<<<<<<');
 
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet">
-    <title>天元囲碁クラブ</title>
-</head>
+    <?php $siteTitle = '囲碁クラブ｜トップページ' ?>
+<?php require('head.php'); ?>
 <body>
     <header>
         <div class="site-width">
@@ -103,18 +97,18 @@ debug('画面表示終了<<<<<<<<<<<<<<<<');
     <!-- メインコンテンツ -->
     <div id="contents" class="site-width">
         <section class="introduction">
-            <h2> <img src="kuroishi.png" alt="">私たちについて</h2>
+            <h2> <img src="../../assets/img/kuroishi.png" alt="">私たちについて</h2>
             <p>天元囲碁クラブは毎週金曜日１９時から天元町公民館で囲碁を打っています。<br>
                 初心者・有段者問わず、見学随時歓迎です！メールは<a href="sendMail.php">こちら</a>
             </p>
         </section>
         <div class="wrap">
         <section class="schedule">
-            <h2> <img src="shiroishi.png" alt="">活動予定</h2>
+            <h2> <img src="../../assets/img/shiroishi.png" alt="">活動予定</h2>
             <iframe src="https://calendar.google.com/calendar/embed?height=280&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FTokyo&src=MWYwZTBiMTM1MzVkODc2NWYxZWZhYzhmZDgyZTE2M2E0YjVhOWNmMjZlMjFmOTcyMjk3N2MyYTBlOGQ1ZWM4YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="300" height="280" frameborder="0" scrolling="no"></iframe>
         </section>
         <section class="login">
-            <h2><img src="kuroishi.png" alt="">会員ログイン</h2>
+            <h2><img src="../../assets/img/kuroishi.png" alt="">会員ログイン</h2>
             <form method="post" class="signIn">
                 <div class="area-msg"><?php if(!empty($err_msg)) echo $err_msg['common']?></div>
                 <table class="loginForm">

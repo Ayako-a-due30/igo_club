@@ -2,7 +2,7 @@
     error_reporting(E_ALL);
     ini_set('display_errors','On');
 
-require('function.php');
+require('../function/function.php');
 
 if(!empty($_POST)){
     $email=$_POST['email'];
@@ -79,7 +79,7 @@ require('header.php');
 <section class="site-width">
     <main class="mypage-wrap">
         <div class="game-record">
-            <h2><img src="kuroishi.png" alt=""> オンライン感想戦</h2>
+            <h2><img src="../../assets/img/kuroishi.png" alt=""> オンライン感想戦</h2>
             <h3>棋譜</h3>
             <form action="" method="post" enctype="multipart/form-data">
                 <input type="file" name="image">

@@ -3,3 +3,145 @@
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/igo_club/src/app/signUp.php on line 9
+[19-Dec-2022 10:00:16 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1671411616
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：セッション ID：l152876bm5918kbipav4pjnl0k
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1671411616
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671412804
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1671415216
+[19-Dec-2022 10:20:04 Asia/Tokyo] デバッグ：ログアウトします
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：セッション ID：5u8aharaib8vga4g8q1qdqe54p
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:20:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671412833
+[19-Dec-2022 10:20:33 Asia/Tokyo] PHP Warning:  require(auth.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/igo_club/src/app/login.php on line 13
+[19-Dec-2022 10:20:33 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/igo_club/src/app/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/src/app/login.php on line 13
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：セッション ID：orc7so73qobbafjschluts5h1b
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671412868
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:21:08 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：セッション ID：m9869q91noue5vbk3oc14f0i3p
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671412956
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:22:36 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[19-Dec-2022 10:22:36 Asia/Tokyo] PHP Warning:  Undefined variable $siteTitle in /Applications/MAMP/htdocs/igo_club/src/app/head.php on line 9
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：セッション ID：6ng154g5r44gdv32c6vqf0d600
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671413004
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:23:24 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[19-Dec-2022 10:23:24 Asia/Tokyo] PHP Warning:  Undefined variable $siteTitle in /Applications/MAMP/htdocs/igo_club/src/app/head.php on line 9
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：セッション ID：c0km5007l2udc2jc5377dsj0am
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671413038
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:23:58 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[19-Dec-2022 10:23:58 Asia/Tokyo] PHP Warning:  Undefined variable $siteTitle in /Applications/MAMP/htdocs/igo_club/src/app/head.php on line 9
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：セッション ID：51d0j9takgopihiepj3dd8hh1k
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671413099
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:24:59 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：セッション ID：sjsvu3mhs70nq163dughdgk21h
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671413111
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:25:11 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：ログインページ
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：セッション ID：ommvlffh4nu9edec6i96k9j43q
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671413134
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：未ログインユーザーです
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：POST送信があります
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：バリデーションOK
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$KHZSPz42IM2mWwyXmdbCaOmhQzmma.VNAGPaB4Hpou.VSHKJxz1ZG
+    [id] => 18
+)
+
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1671413134
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：マイページへ遷移します
+[19-Dec-2022 10:25:34 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
