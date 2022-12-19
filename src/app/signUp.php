@@ -6,7 +6,7 @@
 
     
 
-require('function.php');
+require('../function/function.php');
 
 
 if(!empty($_POST)){
@@ -97,7 +97,7 @@ require('header.php');
 <!-- メインコンテンツ -->
 <div id="contents" class="site-width">
     <section class="register">
-        <h2><img src="kuroishi.png" alt=""> 新規会員登録</h2>
+        <h2><img src="../../assets/img/kuroishi.png" alt=""> 新規会員登録</h2>
         <form method="post" class="register">
             <span class="small">＊項目は必須です。</span>
             <table class="registerTable"> 
