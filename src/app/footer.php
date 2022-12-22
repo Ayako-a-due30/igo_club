@@ -1,6 +1,6 @@
 <footer>
         <a href="">
-            天元囲碁クラブ all right reserved.
+            囲碁部ノート all right reserved.
         </a>
 </footer>
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>

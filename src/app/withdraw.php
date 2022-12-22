@@ -1,11 +1,11 @@
 <?php
-require('function.php');
+require('../function/function.php');
 
 
 debug('「「「「「「「「「「「「「「「「「');
 debug('「「「「退会ページ「「「「「');
 debug('「「「「「「「「「「「「「「「「「');
-require('auth.php');
+require('../function/auth.php');
 
 if(!empty($_POST)){
     debug('POST送信があります');
@@ -57,7 +57,7 @@ require('head.php');
         <section id="main">
             <div class="form-container">
                 <form action="" class="form" method="post">
-                    <h2 class="title">退会</h2>
+                    <h2 class="title">囲碁部ノートアカウント消去</h2>
                     <div class="area-msg">
                         <?php if (!empty($err_msg['common'])) echo $err_msg['common'];
                         ?>

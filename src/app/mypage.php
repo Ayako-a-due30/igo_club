@@ -14,13 +14,12 @@ if(!empty($_POST)){
 
     try{
         $dbh = dbConnect();
-        $sql='INSERT INTO `users`(email,nickname,password,level,attendance,login_time,update_date)
-        VALUES(:email,:nickname,:password,:level,:attendance,:login_time,:update_date)';
+        $sql='INSERT INTO `users`(email,nickname,password,level,login_time,update_date)
+        VALUES(:email,:nickname,:password,:level,,:login_time,:update_date)';
         $data = array(':email' => $email,
         ':nickname' => $nickname,
         ':password' => $password,
         ':level' => $level,
-        ':attendance' => $attendance,
         ':login_time' => date('Y-m-d H:i:s'),
         ':update_date' => date('Y-m-d H:i:s'));
         //クエリ実行
@@ -44,30 +43,30 @@ if(!empty($_POST)){
         $err_msg['common']=MSG07;
     }
 }
-////棋譜アップロード
+// ////棋譜アップロード
 
-if(!empty($_FILES)){
-    $file = $_FILES['image'];
-    $msg = '';
-    $img_path = '';
+// if(!empty($_FILES)){
+//     $file = $_FILES['image'];
+//     $msg = '';
+//     $img_path = '';
 
-    /////////////
-    // $fileについてのバリデーションを書くこと
-    //拡張子がjpeg,pngを確認
+//     /////////////
+//     // $fileについてのバリデーションを書くこと
+//     //拡張子がjpeg,pngを確認
 
-    ////////////////
-    $upload_path ='game_images/'.$file['name'];
-    $rst = move_uploaded_file($file['tmp_name'],$upload_path);
-    if($rst){
-        $msg ='画像をアップしました。'.$file['name'];
-        $img_path = $upload_path;
-    }else{
-        $msg='画像はアップできませんでした。'.$file['error'];
-    }
-}
+//     ////////////////
+//     $upload_path ='game_images/'.$file['name'];
+//     $rst = move_uploaded_file($file['tmp_name'],$upload_path);
+//     if($rst){
+//         $msg ='画像をアップしました。'.$file['name'];
+//         $img_path = $upload_path;
+//     }else{
+//         $msg='画像はアップできませんでした。'.$file['error'];
+//     }
+// }
 ?>
 <?php
-$siteTitle='マイページ：';
+$siteTitle='囲碁部ノート|マイページ：';
 require('head.php');
 ?>
 <body>
@@ -78,36 +77,53 @@ require('header.php');
 <!-- メインコンテンツ -->
 <section class="site-width">
     <main class="mypage-wrap">
+    <div class="bar">
+        <span>
+            こんにちは、さん。
+        </span>
+        <h3 class="mymenu"><img src="../../assets/img/shiroishi.png" alt="">マイメニュー</h3>
+            <ul class="my-menu">
+                <li class="handle"><a href="passEdit.php">
+                    <span class="material-symbols-outlined">lock_clock</span>パスワード変更</li></a> 
+                <li class="handle"><a href="logout.php">
+                    <span class="material-symbols-outlined">logout</span>ログアウト</li></a> 
+                <li class="handle"><a href="withdraw.php">
+                    <span class="material-symbols-outlined">delete</span>囲碁部ノートアカウント消去</li></a>
+            </ul>
+        </div>        
         <div class="game-record">
-            <h2><img src="../../assets/img/kuroishi.png" alt=""> オンライン感想戦</h2>
-            <h3>棋譜</h3>
+            <h3><img src="../../assets/img/kuroishi.png" alt="">書き込み</h3>
             <form action="" method="post" enctype="multipart/form-data">
-                <input type="file" name="image">
-                <input type="submit" value ="アップロード">
+                <table class="record-note">
+                    <tr>
+                        <td class="record-td">対局日</td>
+                        <td class="record-td"><input type="date" name="game_date"></td>
+                    </tr>
+                    <tr>
+                        <td class="record-td">黒</td>
+                        <td class="record-td"><input type="text" name="player_black" value="名前"></td>
+                        <td class="record-td"><input type="text" name="agehama-black" value="アゲハマ"></td>
+                        <td class="record-td">白</td>
+                        <td class="record-td"><input type="text" name="player_white" value="名前"></td>
+                        <td class="record-td"><input type="text" name ="agehama-white" value="アゲハマ"></td>
+                    </tr>
+                    <tr>
+                        <td class="record-td">コミ</td>
+                        <td class="record-td" colspan="2"><input type="text" name="komi"></td>
+                        <td class="record-td"> 結果</td>
+                        <td class="record-td" colspan="2"><input type="text" name="outcome"></td>
+                    </tr>
+                    <tr>
+                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic1" value="棋譜１"></td> 
+                        <td class="record-td" colspan="2"><input type="textarea" name="comment1" value="コメント１"></td>
+                    </tr>
+
+                </table>
             </form>
-            <p><?php if(!empty($msg)) echo $msg; ?></p>
-            <?php if(!empty($img_path)){ ?>
-                <div class="img_area">
-                    <p>棋譜</p>
-                    <img src="<?php echo $img_path; ?>" alt="" class="record-pic">
-                </div>
-            <?php }?>
+            <h3><img src="../../assets/img/kuroishi.png" alt="">対局記録</h3>
     
         </div>
-        <div class="sidebar">
-            <h3 class="mymenu">マイメニュー</h3>
-            <ul class="my-menu">
-                <li class="handle"><a href="logout.php">ログアウト</li></a> 
-                <li class="handle"><a href="passEdit.php">パスワード変更</li></a> 
-                <li class="handle"><a href="withdraw.php">退会する</li></a>
-            </ul>
-            <h3 class="meetingday">出欠登録</h3>
-            <ul class="meeting-day">
-                <li><input type="checkbox"><?php echo date('Y-m-d',strtotime('friday')); ?></li>
-                <li><input type="checkbox"><?php echo date('Y-m-d',strtotime('friday next week')); ?></li>
-            </ul>
-        </div>
-        
+
     </main>
 </section>
 <!-- フッター -->

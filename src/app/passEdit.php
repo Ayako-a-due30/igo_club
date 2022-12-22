@@ -1,5 +1,5 @@
 <?php
-require('function.php');
+require('../function/function.php');
 
 debug('「「「「「「「「「「「「「「「「「「「');
 debug('「パスワード変更ページ「「「「「「「「');
@@ -60,7 +60,7 @@ if(!empty($_POST)){
 {$username}さん
 パスワードが変更されました。
 ///////////
-天元囲碁クラブ
+囲碁部ノート
 ///////////
 EOT;
     sendMail($from,$to,$subject,$comment);
@@ -78,14 +78,14 @@ EOT;
 ?>
 
 <?php
-$siteTitle ='パスワード変更';
+$siteTitle ='囲碁部ノート｜パスワード変更';
 require('head.php');
 ?>
 <?php
 require('header.php');
 ?>
     <section class="pass_edit">
-        <h2 class="pass-title"><img src="shiroishi.png" alt="">パスワード変更</h2>
+        <h2 class="pass-title"><img src="../../assets/img/shiroishi.png" alt="">パスワード変更</h2>
         <form method="post" class="pass_edit_form">
             <table class="registerTable">
                 <label for="oldPass">
