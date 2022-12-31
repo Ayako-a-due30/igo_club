@@ -3,46 +3,61 @@
     ini_set('display_errors','On');
 
 require('../function/function.php');
+$u_id = $_SESSION['user_id'];
 
 if(!empty($_POST)){
-    $email=$_POST['email'];
-    $nickname=$_POST['nickname'];
-    $level=$_POST['level'];
-    $attendance=$_POST['attendance'];
-    $frequency=$_POST['frequency'];
-    $pass= $_POST['pass'];
+    // var_dump($_POST);送信内容はPOSTに入っている12/26
+    $game_date='';
+    $player_black = $_POST['player_black'];
+    $agehama_black = $_POST['agehama_black'];
+    $player_white = $_POST['player_white'];
+    $agehama_white = $_POST['agehama_white'];
+    $komi = $_POST['komi'];
+    $outcome = $_POST['outcome']; 
+    $comment1= $_POST['comment1'];
+    $comment2 = $_POST['comment2'];
+    $comment3 = $_POST['comment3'];
+    
+    if(!empty($_FILES)){
+        $game_pic1 = (!empty($_FILES['game_pic1']['name'])) ? uploadImg($_FILES['game_pic1'],'game_pic1'):'';
+        $game_pic1 = (empty($game_pic1) && !empty($dbFormData['game_pic1']) )? $dbFormData['game_pic1']: $game_pic1;
+        $game_pic2 = (!empty($_FILES['game_pic2']['name'])) ? uploadImg($_FILES['game_pic2'],'game_pic2'):'';
+        $game_pic2 = (empty($game_pic2) && !empty($dbFormData['game_pic2']) )? $dbFormData['game_pic2']: $game_pic2;
+        $game_pic3 = (!empty($_FILES['game_pic3']['name'])) ? uploadImg($_FILES['game_pic3'],'game_pic3'):'';
+        $game_pic3 = (empty($game_pic3) && !empty($dbFormData['game_pic3'])) ? $dbFormData['game_pic3']: $game_pic3;        
+    }
 
     try{
         $dbh = dbConnect();
-        $sql='INSERT INTO `users`(email,nickname,password,level,login_time,update_date)
-        VALUES(:email,:nickname,:password,:level,,:login_time,:update_date)';
-        $data = array(':email' => $email,
-        ':nickname' => $nickname,
-        ':password' => $password,
-        ':level' => $level,
-        ':login_time' => date('Y-m-d H:i:s'),
-        ':update_date' => date('Y-m-d H:i:s'));
+        $sql='INSERT INTO `record`(game_date,player_black,agehama_black,player_white,agehama_white,komi,outcome,game_pic1,comment1,game_pic2,comment2,game_pic3,comment3,user_id)
+        VALUES(:game_date,:player_black,:agehama_black,:player_white,:agehama_white,:komi,:outcome,:game_pic1,:comment1,:game_pic2,:comment2,:game_pic3,:comment3,:user_id)';
+        $data = array(
+        ':game_date'=>date('Y-m-d H:i:s'),
+        ':player_black'=>$player_black,
+        ':agehama_black'=>$agehama_black,
+        ':player_white'=>$player_white,
+        ':agehama_white'=>$agehama_white,
+        ':komi'=>$komi,
+        ':outcome'=>$outcome,
+        ':game_pic1'=>$game_pic1,
+        ':comment1'=>$comment1,
+        ':game_pic2'=>$game_pic2,
+        ':comment2'=>$comment2,
+        ':game_pic3'=>$game_pic3,
+        ':comment3'=>$comment3,
+        ':user_id'=>$_SESSION["user_id"]);
         //クエリ実行
+        debug('流し込みデータ：'.print_r($data));
         $stmt=queryPost($dbh,$sql,$data);
-        //クエリ成功の場合
         if($stmt){
-            $sesLimit=60*60;
-            $_SESSION['login_date']=time();
-            $_SESSION['login_limit']=$sesLimit;
-            //ユーザーIDを格納
-            $_SESSION['user_id']=$dbh->lastInsertId();
-
-            debug('セッション変数の中身：'.print_r($_SESSION,true));
-            // header("Location:mypage.php");   
-        }else{
-        error_log('クエリに失敗しました');
-        $err_msg['common']=MSG07;
+            $_SESSION['msg_success']= SUC04;
         }
     }catch(Exception $e){
-        error_log('エラー発生：'.$e->getMessage());
-        $err_msg['common']=MSG07;
+        $err_msg['common']=MSG06;
+
     }
 }
+        //クエリ成功の場合
 // ////棋譜アップロード
 
 // if(!empty($_FILES)){
@@ -79,8 +94,9 @@ require('header.php');
     <main class="mypage-wrap">
     <div class="bar">
         <span>
-            こんにちは、さん。
+            こんにちは、<?php echo(getUser($u_id)['nickname']); ?>さん。
         </span>
+
         <h3 class="mymenu"><img src="../../assets/img/shiroishi.png" alt="">マイメニュー</h3>
             <ul class="my-menu">
                 <li class="handle"><a href="passEdit.php">
@@ -93,35 +109,52 @@ require('header.php');
         </div>        
         <div class="game-record">
             <h3><img src="../../assets/img/kuroishi.png" alt="">書き込み</h3>
+            <?php if(!empty($err_msg['common'])) echo $err_msg['common']; ?>
             <form action="" method="post" enctype="multipart/form-data">
                 <table class="record-note">
-                    <tr>
+                    <tr class="record-tr">
                         <td class="record-td">対局日</td>
                         <td class="record-td"><input type="date" name="game_date"></td>
                     </tr>
-                    <tr>
+                    <tr class="record-tr">
                         <td class="record-td">黒</td>
-                        <td class="record-td"><input type="text" name="player_black" value="名前"></td>
-                        <td class="record-td"><input type="text" name="agehama-black" value="アゲハマ"></td>
+                        <td class="record-td"><input type="text" name="player_black" placeholder="名前"></td>
+                        <td class="record-td"><input type="text" name="agehama_black" placeholder="アゲハマ"></td>
                         <td class="record-td">白</td>
-                        <td class="record-td"><input type="text" name="player_white" value="名前"></td>
-                        <td class="record-td"><input type="text" name ="agehama-white" value="アゲハマ"></td>
+                        <td class="record-td"><input type="text" name="player_white" placeholder="名前"></td>
+                        <td class="record-td"><input type="text" name ="agehama_white" placeholder="アゲハマ"></td>
                     </tr>
-                    <tr>
+                    <tr class="record-tr">
                         <td class="record-td">コミ</td>
                         <td class="record-td" colspan="2"><input type="text" name="komi"></td>
                         <td class="record-td"> 結果</td>
                         <td class="record-td" colspan="2"><input type="text" name="outcome"></td>
                     </tr>
-                    <tr>
-                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic1" value="棋譜１"></td> 
-                        <td class="record-td" colspan="2"><input type="textarea" name="comment1" value="コメント１"></td>
+                    <tr class="record-tr">
+                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic1" placeholder="棋譜１"></td> 
+                        <td class="record-td" colspan="2"><input type="textarea" name="comment1" placeholder="コメント１"></td>
+                    </tr>
+                    <tr class="record-tr">
+                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic2" placeholder="棋譜２"></td> 
+                        <td class="record-td" colspan="2"><input type="textarea" name="comment2" placeholder="コメント２"></td>
+                    </tr>
+                    <tr class="record-tr">
+                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic3" placeholder="棋譜３"></td> 
+                        <td class="record-td" colspan="2"><input type="textarea" name="comment3" placeholder="コメント３"></td>
                     </tr>
 
+                    <tr class="record-tr">
+                        <td colspan="6"><input type="submit" value="記録する"></td>
+                    </tr>
                 </table>
             </form>
             <h3><img src="../../assets/img/kuroishi.png" alt="">対局記録</h3>
-    
+            <div class="showNote">
+            </div>
+<?php var_dump(getRecord($_SESSION['user_id'])); ?>
+        </div>
+        <div class="showRecord">
+            
         </div>
 
     </main>

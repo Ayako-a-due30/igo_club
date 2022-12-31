@@ -1305,3 +1305,864 @@ Stack trace:
 [22-Dec-2022 09:13:18 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671667998
 [22-Dec-2022 09:13:18 Asia/Tokyo] デバッグ：未ログインユーザーです
 [22-Dec-2022 09:13:18 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[22-Dec-2022 14:26:56 Asia/Tokyo] PHP Warning:  Undefined variable $u_id in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 52
+[22-Dec-2022 14:26:56 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：ログインページ
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：セッション ID：tggvhoou4v26k1n2h3o2o9j6sd
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1671687347
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：未ログインユーザーです
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：POST送信があります
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：バリデーションOK
+[22-Dec-2022 14:35:47 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$KHZSPz42IM2mWwyXmdbCaOmhQzmma.VNAGPaB4Hpou.VSHKJxz1ZG
+    [id] => 18
+)
+
+[22-Dec-2022 14:35:48 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[22-Dec-2022 14:35:48 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[22-Dec-2022 14:35:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1671687348
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[22-Dec-2022 14:35:48 Asia/Tokyo] デバッグ：マイページへ遷移します
+[22-Dec-2022 14:35:48 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[22-Dec-2022 14:38:08 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 6
+[22-Dec-2022 14:38:08 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 14:38:40 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 14:38:40 Asia/Tokyo] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 70
+[22-Dec-2022 14:43:39 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 14:44:26 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 14:44:52 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 14:58:40 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:01:21 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:01:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:01:57 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:02:15 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:02:20 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:03:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:04:06 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:06:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:06:57 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:08:48 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[22-Dec-2022 15:08:50 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[23-Dec-2022 17:07:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[23-Dec-2022 17:10:41 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2147.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpfmKrD5
+    [error] => 0
+    [size] => 6451721
+)
+
+[23-Dec-2022 17:10:41 Asia/Tokyo] PHP Warning:  move_uploaded_file(uploads/7ec9e68e8c49460ae8d527bd6d84e367321392e4.jpeg): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/igo_club/src/function/function.php on line 182
+[23-Dec-2022 17:10:41 Asia/Tokyo] PHP Warning:  move_uploaded_file(): Unable to move &quot;/Applications/MAMP/tmp/php/phpfmKrD5&quot; to &quot;uploads/7ec9e68e8c49460ae8d527bd6d84e367321392e4.jpeg&quot; in /Applications/MAMP/htdocs/igo_club/src/function/function.php on line 182
+[23-Dec-2022 17:10:41 Asia/Tokyo] デバッグ：ファイル保存時にエラーが発生しました
+[23-Dec-2022 17:10:41 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[23-Dec-2022 17:12:12 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2147.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpJ0Nhrn
+    [error] => 0
+    [size] => 6451721
+)
+
+[23-Dec-2022 17:12:12 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[23-Dec-2022 17:12:12 Asia/Tokyo] デバッグ：ファイルパス：uploads/7ec9e68e8c49460ae8d527bd6d84e367321392e4.jpeg
+[23-Dec-2022 17:12:12 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：ログインページ
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：セッション ID：dg653p05gk8o9gtlfq21dofacc
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672043181
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：未ログインユーザーです
+[26-Dec-2022 17:26:21 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：ログインページ
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：セッション ID：ob34ctll7oljmluooub7jvja08
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672043189
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：未ログインユーザーです
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：POST送信があります
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：バリデーションOK
+[26-Dec-2022 17:26:29 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$KHZSPz42IM2mWwyXmdbCaOmhQzmma.VNAGPaB4Hpou.VSHKJxz1ZG
+    [id] => 18
+)
+
+[26-Dec-2022 17:26:30 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[26-Dec-2022 17:26:30 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[26-Dec-2022 17:26:30 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1672043190
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[26-Dec-2022 17:26:30 Asia/Tokyo] デバッグ：マイページへ遷移します
+[26-Dec-2022 17:26:30 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[26-Dec-2022 17:26:30 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[26-Dec-2022 17:42:43 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[26-Dec-2022 17:43:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[26-Dec-2022 17:49:38 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 11:06:24 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:22:55 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 6
+[27-Dec-2022 20:22:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:22:55 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 74
+[27-Dec-2022 20:43:12 Asia/Tokyo] PHP Warning:  Undefined array key "user_id" in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 6
+[27-Dec-2022 20:43:12 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 74
+[27-Dec-2022 20:43:12 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：ログインページ
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：セッション ID：8qbi3n426ukrea8ji6cavr5kdt
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672141405
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：未ログインユーザーです
+[27-Dec-2022 20:43:25 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：ログインページ
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：セッション ID：8kks1t1b2vasl2kn3hbj1evncv
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672141420
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：未ログインユーザーです
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：POST送信があります
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：バリデーションOK
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$KHZSPz42IM2mWwyXmdbCaOmhQzmma.VNAGPaB4Hpou.VSHKJxz1ZG
+    [id] => 18
+)
+
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1672141420
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：マイページへ遷移します
+[27-Dec-2022 20:43:40 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[27-Dec-2022 20:43:40 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php:74
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 74
+[27-Dec-2022 20:43:56 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:44:33 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:53:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:53:12 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:53:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:55:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[27-Dec-2022 20:58:31 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 08:13:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 08:24:51 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 08:53:10 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 08:53:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 09:03:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 09:04:05 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 09:11:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 09:13:25 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_1921.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpjY42aw
+    [error] => 0
+    [size] => 50983
+)
+
+[28-Dec-2022 09:13:25 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[28-Dec-2022 09:13:25 Asia/Tokyo] デバッグ：ファイルパス：uploads/84a35e21e367d99dbfbf81046a7020ca0ac95a33.jpeg
+[28-Dec-2022 09:13:25 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：ログインページ
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：セッション ID：qa77ftr25e3g1nidkb3qfdcpu7
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1672141420
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672208551
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1672145020
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：ログインページ
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：セッション ID：bio1rj35l531mcbb507htjcvoc
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672208551
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：未ログインユーザーです
+[28-Dec-2022 15:22:31 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：ログインページ
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：セッション ID：2usjt22a7v7ks9i65guhn7hk65
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672208561
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：未ログインユーザーです
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：POST送信があります
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：バリデーションOK
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$KHZSPz42IM2mWwyXmdbCaOmhQzmma.VNAGPaB4Hpou.VSHKJxz1ZG
+    [id] => 18
+)
+
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1672208561
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：マイページへ遷移します
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[28-Dec-2022 15:22:41 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 15:24:03 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpCwoL3s
+    [error] => 0
+    [size] => 6760
+)
+
+[28-Dec-2022 15:24:03 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[28-Dec-2022 15:24:03 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[28-Dec-2022 15:24:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 17:33:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 17:35:30 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 17:35:53 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/php0A6SXU
+    [error] => 0
+    [size] => 6760
+)
+
+[28-Dec-2022 17:35:53 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[28-Dec-2022 17:35:53 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[28-Dec-2022 17:35:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 17:42:28 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpYZRTM4
+    [error] => 0
+    [size] => 6760
+)
+
+[28-Dec-2022 17:42:28 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[28-Dec-2022 17:42:28 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[28-Dec-2022 17:42:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 17:43:02 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2003.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpMaoPpO
+    [error] => 0
+    [size] => 46308
+)
+
+[28-Dec-2022 17:43:02 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[28-Dec-2022 17:43:02 Asia/Tokyo] デバッグ：ファイルパス：uploads/770d92450d8f1e0038a2c3c9953f04c5c291942f.jpeg
+[28-Dec-2022 17:43:02 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[28-Dec-2022 18:00:46 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 08:43:17 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 08:54:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 08:56:31 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 09:09:56 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpv4xjBM
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 09:09:56 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 09:09:56 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 09:09:56 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 09:11:55 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpACaOmB
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 09:11:55 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 09:11:55 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 09:11:55 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 09:17:43 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpgGaUYx
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 09:17:43 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 09:17:43 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 09:17:43 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 09:30:54 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phplhZgi8
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 09:30:54 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 09:30:54 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 09:30:54 Asia/Tokyo] PHP Warning:  Undefined variable $_session in /Applications/MAMP/htdocs/igo_club/src/app/mypage.php on line 31
+[29-Dec-2022 09:30:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 09:31:11 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/php6ot65E
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 09:31:11 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 09:31:11 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 09:31:11 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 09:32:16 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phptBKOqg
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 09:32:16 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 09:32:16 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 09:32:16 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 13:31:01 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpi5ecIO
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 13:31:01 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 13:31:01 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 13:31:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 13:31:35 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/php5cdZfS
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 13:31:35 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 13:31:35 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 13:31:35 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 13:39:21 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/php1drQiC
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 13:39:21 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 13:39:21 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 13:39:21 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 13:41:53 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpY9lQdy
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 13:41:53 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 13:41:53 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 13:41:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 14:22:40 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpclsMar
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 14:22:40 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 14:22:40 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 14:22:40 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpclsMar
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 14:22:40 Asia/Tokyo] デバッグ：画像形式が未対応です
+[29-Dec-2022 14:22:40 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 14:35:02 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpSx1UXu
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 14:35:02 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 14:35:02 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 14:35:02 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 14:42:29 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpjYhSqa
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 14:42:29 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 14:42:29 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 14:42:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 14:54:52 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpFdVD00
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 14:54:52 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 14:54:52 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 14:54:52 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 14:54:52 Asia/Tokyo] デバッグ：クエリ成功
+[29-Dec-2022 15:01:49 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpnOGF0f
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 15:01:49 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 15:01:49 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 15:01:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 15:01:49 Asia/Tokyo] デバッグ：クエリ成功
+[29-Dec-2022 15:02:27 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/php44Q7QL
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 15:02:27 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 15:02:27 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 15:02:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 15:02:27 Asia/Tokyo] デバッグ：クエリ成功
+[29-Dec-2022 15:03:42 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpqAFYbp
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 15:03:42 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 15:03:42 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 15:03:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 15:03:42 Asia/Tokyo] デバッグ：クエリ成功1
+[29-Dec-2022 15:12:05 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpWNE18a
+    [error] => 0
+    [size] => 6760
+)
+
+[29-Dec-2022 15:12:05 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[29-Dec-2022 15:12:05 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[29-Dec-2022 15:12:05 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[29-Dec-2022 15:12:05 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 15:14:14 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpxILSxe
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 15:14:14 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 15:14:14 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 15:14:14 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 15:14:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 15:14:14 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：「「「ログアウトページ
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：セッション ID：98rmit294p8i2qtkjsgmp63bvq
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1672208561
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672380859
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1672212161
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：ログアウトします
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：ログインページ
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：セッション ID：d10gr73e476egj2v4v0ie3h5pd
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672380859
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：未ログインユーザーです
+[30-Dec-2022 15:14:19 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：[[[[[[[[[[
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：ログインページ
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：]]]]]]]]]]]
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>画面表示処理開始
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：セッション ID：om88qpf48brtaq49023pgidm4d
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1672380869
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：未ログインユーザーです
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：POST送信があります
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：バリデーションOK
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 15:14:29 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [pass] => $2y$10$KHZSPz42IM2mWwyXmdbCaOmhQzmma.VNAGPaB4Hpou.VSHKJxz1ZG
+    [id] => 18
+)
+
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：パスワードがマッチしました。
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：ログイン保持にチェックはありません。
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1672380870
+    [login_limit] => 3600
+    [user_id] => 18
+)
+
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：マイページへ遷移します
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：画面表示終了<<<<<<<<<<<<<<<<
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 15:14:30 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 15:14:51 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpIDdr6q
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 15:14:51 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 15:14:51 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 15:14:51 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 15:14:51 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 15:14:51 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 15:16:48 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpdFAJJx
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 15:16:48 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 15:16:48 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 15:16:48 Asia/Tokyo] デバッグ：流し込みデータ：
+[30-Dec-2022 15:16:48 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 15:16:48 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/php97ceUt
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 16:52:46 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpC8qrhj
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 16:53:16 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpxDfvaI
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:00:26 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:00:26 Asia/Tokyo] PHP Warning:  Undefined variable $dbh in /Applications/MAMP/htdocs/igo_club/src/function/function.php on line 211
+[30-Dec-2022 18:00:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /Applications/MAMP/htdocs/igo_club/src/function/function.php:158
+Stack trace:
+#0 /Applications/MAMP/htdocs/igo_club/src/function/function.php(211): queryPost(NULL, 'SELECT (game_da...', Array)
+#1 /Applications/MAMP/htdocs/igo_club/src/app/mypage.php(154): getRecord('18')
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/igo_club/src/function/function.php on line 158
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpb0GoCO
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:02:08 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phprHvktc
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:03:19 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpCYZKhS
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:06:14 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpXPRoAy
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:08:29 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpKn3qos
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:14:42 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpv935BX
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:19:01 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpTtldX3
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:23:18 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpm6KBUW
+    [error] => 0
+    [size] => 6760
+)
+
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：流し込みデータ：1
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：クエリ成功
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：記録を取得します
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[30-Dec-2022 18:23:43 Asia/Tokyo] デバッグ：クエリ成功
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：画像アップロード開始、FILE情報：Array
+(
+    [name] => IMG_2207.jpeg
+    [type] => image/jpeg
+    [tmp_name] => /Applications/MAMP/tmp/php/phpqttM8T
+    [error] => 0
+    [size] => 6760
+)
+
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：ファイルは正常にアップロードされました
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：ファイルパス：uploads/2fe29e3a49d8a3a525a04afdffdee7cedc7a9758.jpeg
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：流し込みデータ：1
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：クエリ成功
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：クエリ成功
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：記録を取得します
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：ユーザーデータ：1
+[31-Dec-2022 09:28:02 Asia/Tokyo] デバッグ：クエリ成功

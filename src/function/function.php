@@ -53,6 +53,7 @@ const MSG15 = '有効期限が切れています';
 const SUC01 = 'パスワードを変更しました';
 const SUC02 = 'プロフィールを変更しました';
 const SUC03 = 'メールを送信しました';
+const SUC04 = 'ノートに記録しました。';
 
 // //グローバル変数・エラーメッセージ格納用
 $err_msg = array();
@@ -147,7 +148,7 @@ function dbConnect(){
     $options=array(
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
-        PDO::MYSQL_ATTR_USE_BUFFERED_QUERY =>true,
+        PDO::MYSQL_ATTR_USE_BUFFERED_QUERY => true,
     );
     $dbh = new PDO($dsn,$user,$password,$options);
     return $dbh;
@@ -155,9 +156,71 @@ function dbConnect(){
 
 function queryPost($dbh,$sql,$data){
     $stmt=$dbh->prepare($sql);
+    if(!$stmt->execute($data)){
+        $err_msg['common'] = MSG07;
+        return 0;
+        debug('クエリに失敗しました');
+    }
     $stmt->execute($data);
+    debug('クエリ成功');
     return $stmt;
 }
+function uploadImg($file,$key){
+    debug('画像アップロード開始、FILE情報：'.print_r($file,true));
+    if(isset($file['error'])&& is_int($file['error'])){
+        try{
+            switch ($file['error']){
+                case UPLOAD_ERR_OK:
+                    break;
+                case UPLOAD_ERR_NO_FILE:
+                    throw new RuntimeException('ファイルが選択されていません');
+                case UPLOAD_ERR_INI_SIZE:
+                case UPLOAD_ERR_FORM_SIZE:
+                    throw new RuntimeException('ファイルサイズが大きすぎます');
+                default:
+                    throw new RuntimeException('その他のエラーが発生しました');
+            }
+            $type=@exif_imagetype($file['tmp_name']);
+            if(!in_array($type,[IMAGETYPE_GIF,IMAGETYPE_JPEG,IMAGETYPE_PNG],true)){
+                throw new RuntimeException('画像形式が未対応です');
+            }
+            $path='uploads/'.sha1_file($file['tmp_name']).image_type_to_extension($type);
+            if(!move_uploaded_file($file['tmp_name'],$path)){
+                throw new RuntimeException('ファイル保存時にエラーが発生しました');
+            }
+            chmod($path,0644);
+            debug('ファイルは正常にアップロードされました');
+            debug('ファイルパス：'.$path);
+            return $path;
+        }catch(RuntimeException $e){
+            debug($e->getMessage());
+            global $err_msg;
+            $err_msg[$key]= $e->getMessage();
+        }
+    }
+}
+/////////////データベース出力
+function getRecord($u_id){
+    debug('記録を取得します');
+    debug('ユーザーデータ：'.print_r($_SESSION['user_id']));
+    try{
+        $dbh = dbConnect();
+        $sql = 'SELECT*FROM record WHERE user_id = :user_id';
+        $data = array(':user_id'=>$u_id);
+        $stmt = queryPost($dbh,$sql,$data);
+        $result = $stmt->fetch(PDO::FETCH_ASSOC);
+        if(!empty($result)){
+            return $result;
+            }else{
+            return false;
+        }
+    }catch (Exception $e){
+       global $err_msg;
+       $err_msg = MSG06;
+    }
+}
+
+
 /////////////メール送信
 
 function sendMail($from,$to,$subject,$comment){
