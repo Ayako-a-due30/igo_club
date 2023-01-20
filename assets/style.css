@@ -224,6 +224,16 @@ td.record-td{
   vertical-align: middle;
   margin-right: 8px;
 }
+/* 対局記録表示 */
+.showRecord{
+    background-color: #f7f7f7;
+    width:40%;
+    height:100px;
+    float: left;
+    margin: 5%;
+    display: block;
+}
+
 /* お問合せメール送信ページ */
 .mail-title{
     text-align: center;

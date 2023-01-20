@@ -57,9 +57,9 @@ if(!empty($_POST)){
 
     }
 }
-        //クエリ成功の場合
+        // クエリ成功の場合
 // ////棋譜アップロード
-
+    $getRecordList = getRecord($_SESSION['user_id']);
 // if(!empty($_FILES)){
 //     $file = $_FILES['image'];
 //     $msg = '';
@@ -151,10 +151,27 @@ require('header.php');
             <h3><img src="../../assets/img/kuroishi.png" alt="">対局記録</h3>
             <div class="showNote">
             </div>
-<?php var_dump(getRecord($_SESSION['user_id'])); ?>
         </div>
         <div class="showRecord">
-            
+            <?php foreach($getRecordList as $key => $val): ?>
+                <div class="RecordPic">
+                    <img src="<?php echo $val["game_pic1"] ?>" alt="" class="pic1">
+                    コメント：<?php echo $val["comment1"] ?>
+                    <img src="<?php echo $val["game_pic2"] ?>" alt="">
+                    コメント：<?php echo $val["comment2"] ?>
+                    <img src="<?php echo $val["game_pic3"] ?>" alt="">
+                    コメント：<?php echo $val["comment3"] ?>
+                </div>
+                <span>
+                    日時：<?php echo $val["game_date"]; ?><br>
+                    黒：<?php echo $val["player_black"]; ?><br>
+                    白：<?php echo $val["player_white"]; ?><br>
+                    白アゲハマ：<?php echo $val["agehama_white"]; ?><br>
+                    黒アゲハマ：<?php echo $val["agehama_black"]; ?><br>
+                    コミ：<?php echo $val ["komi"] ?><br>
+                    結果：<?php echo $val["outcome"]; ?><br>
+            </span>
+            <?php endforeach; ?>
         </div>
 
     </main>

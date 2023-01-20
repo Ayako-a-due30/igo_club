@@ -208,8 +208,8 @@ function getRecord($u_id){
         $sql = 'SELECT*FROM record WHERE user_id = :user_id';
         $data = array(':user_id'=>$u_id);
         $stmt = queryPost($dbh,$sql,$data);
-        $result = $stmt->fetch(PDO::FETCH_ASSOC);
-        if(!empty($result)){
+        if($stmt){
+            $result = $stmt->fetchAll();
             return $result;
             }else{
             return false;
@@ -235,6 +235,23 @@ function sendMail($from,$to,$subject,$comment){
         }
     }
 }
+//ログイン認証
+function isLogin(){
+    if(!empty($_SESSION['login_date'])){
+        debug('ログイン済みユーザーです');
+        if(($_SESSION['login_date'] + $_SESSION['login_limit'])<time()){
+            session_destroy();
+            return false;
+        }else{
+            debug('ログイン有効期限内です');
+            return true;
+        }
+    }else{
+        debug ('未ログインユーザーです');
+        return false;
+    }
+}
+
 
 ////////////ユーザー情報取得
 function getUser($u_id){
