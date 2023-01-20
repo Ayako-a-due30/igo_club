@@ -169,6 +169,8 @@ div.area-msg{
 /* マイページ */
 .mypage-wrap{
     width: 800px;
+    height: 1350px;
+    min-height: 600px;
     margin-right: auto;
     margin-left: auto;
     box-sizing: border-box;
@@ -225,13 +227,20 @@ td.record-td{
   margin-right: 8px;
 }
 /* 対局記録表示 */
+.showNote{
+    clear:both;
+}
 .showRecord{
     background-color: #f7f7f7;
-    width:40%;
-    height:100px;
+    width:33%;
+    height:180px;
     float: left;
-    margin: 5%;
+    /* box-sizing: border-box; */
     display: block;
+}
+.RecordPic{
+    width: 80%;
+    height: 80%;
 }
 
 /* お問合せメール送信ページ */

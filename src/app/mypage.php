@@ -93,87 +93,90 @@ require('header.php');
 <section class="site-width">
     <main class="mypage-wrap">
     <div class="bar">
-        <span>
-            こんにちは、<?php echo(getUser($u_id)['nickname']); ?>さん。
-        </span>
+            <span>
+                こんにちは、<?php echo(getUser($u_id)['nickname']); ?>さん。
+            </span>
 
-        <h3 class="mymenu"><img src="../../assets/img/shiroishi.png" alt="">マイメニュー</h3>
-            <ul class="my-menu">
-                <li class="handle"><a href="passEdit.php">
-                    <span class="material-symbols-outlined">lock_clock</span>パスワード変更</li></a> 
-                <li class="handle"><a href="logout.php">
-                    <span class="material-symbols-outlined">logout</span>ログアウト</li></a> 
-                <li class="handle"><a href="withdraw.php">
-                    <span class="material-symbols-outlined">delete</span>囲碁部ノートアカウント消去</li></a>
-            </ul>
-        </div>        
-        <div class="game-record">
-            <h3><img src="../../assets/img/kuroishi.png" alt="">書き込み</h3>
-            <?php if(!empty($err_msg['common'])) echo $err_msg['common']; ?>
-            <form action="" method="post" enctype="multipart/form-data">
-                <table class="record-note">
-                    <tr class="record-tr">
-                        <td class="record-td">対局日</td>
-                        <td class="record-td"><input type="date" name="game_date"></td>
-                    </tr>
-                    <tr class="record-tr">
-                        <td class="record-td">黒</td>
-                        <td class="record-td"><input type="text" name="player_black" placeholder="名前"></td>
-                        <td class="record-td"><input type="text" name="agehama_black" placeholder="アゲハマ"></td>
-                        <td class="record-td">白</td>
-                        <td class="record-td"><input type="text" name="player_white" placeholder="名前"></td>
-                        <td class="record-td"><input type="text" name ="agehama_white" placeholder="アゲハマ"></td>
-                    </tr>
-                    <tr class="record-tr">
-                        <td class="record-td">コミ</td>
-                        <td class="record-td" colspan="2"><input type="text" name="komi"></td>
-                        <td class="record-td"> 結果</td>
-                        <td class="record-td" colspan="2"><input type="text" name="outcome"></td>
-                    </tr>
-                    <tr class="record-tr">
-                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic1" placeholder="棋譜１"></td> 
-                        <td class="record-td" colspan="2"><input type="textarea" name="comment1" placeholder="コメント１"></td>
-                    </tr>
-                    <tr class="record-tr">
-                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic2" placeholder="棋譜２"></td> 
-                        <td class="record-td" colspan="2"><input type="textarea" name="comment2" placeholder="コメント２"></td>
-                    </tr>
-                    <tr class="record-tr">
-                        <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic3" placeholder="棋譜３"></td> 
-                        <td class="record-td" colspan="2"><input type="textarea" name="comment3" placeholder="コメント３"></td>
-                    </tr>
+            <h3 class="mymenu"><img src="../../assets/img/shiroishi.png" alt="">マイメニュー</h3>
+                <ul class="my-menu">
+                    <li class="handle"><a href="passEdit.php">
+                        <span class="material-symbols-outlined">lock_clock</span>パスワード変更</li></a> 
+                    <li class="handle"><a href="logout.php">
+                        <span class="material-symbols-outlined">logout</span>ログアウト</li></a> 
+                    <li class="handle"><a href="withdraw.php">
+                        <span class="material-symbols-outlined">delete</span>囲碁部ノートアカウント消去</li></a>
+                </ul>
+    </div>        
+    <div class="game-record">
+        <h3><img src="../../assets/img/kuroishi.png" alt="">書き込み</h3>
+        <?php if(!empty($err_msg['common'])) echo $err_msg['common']; ?>
+        <form action="" method="post" enctype="multipart/form-data">
+            <table class="record-note">
+                <tr class="record-tr">
+                    <td class="record-td">対局日</td>
+                    <td class="record-td"><input type="date" name="game_date"></td>
+                </tr>
+                <tr class="record-tr">
+                    <td class="record-td">黒</td>
+                    <td class="record-td"><input type="text" name="player_black" placeholder="名前"></td>
+                    <td class="record-td"><input type="text" name="agehama_black" placeholder="アゲハマ"></td>
+                    <td class="record-td">白</td>
+                    <td class="record-td"><input type="text" name="player_white" placeholder="名前"></td>
+                    <td class="record-td"><input type="text" name ="agehama_white" placeholder="アゲハマ"></td>
+                </tr>
+                <tr class="record-tr">
+                    <td class="record-td">コミ</td>
+                    <td class="record-td" colspan="2"><input type="text" name="komi"></td>
+                    <td class="record-td"> 結果</td>
+                    <td class="record-td" colspan="2"><input type="text" name="outcome"></td>
+                </tr>
+                <tr class="record-tr">
+                    <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic1" placeholder="棋譜１"></td> 
+                    <td class="record-td" colspan="2"><input type="textarea" name="comment1" placeholder="コメント１"></td>
+                </tr>
+                <tr class="record-tr">
+                    <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic2" placeholder="棋譜２"></td> 
+                    <td class="record-td" colspan="2"><input type="textarea" name="comment2" placeholder="コメント２"></td>
+                </tr>
+                <tr class="record-tr">
+                    <td class="record-td gameRecPic" colspan="4"><input type="file" name="game_pic3" placeholder="棋譜３"></td> 
+                    <td class="record-td" colspan="2"><input type="textarea" name="comment3" placeholder="コメント３"></td>
+                </tr>
 
-                    <tr class="record-tr">
-                        <td colspan="6"><input type="submit" value="記録する"></td>
-                    </tr>
-                </table>
-            </form>
-            <h3><img src="../../assets/img/kuroishi.png" alt="">対局記録</h3>
-            <div class="showNote">
+                <tr class="record-tr">
+                    <td colspan="6"><input type="submit" value="記録する"></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <div class="showNote">
+        <h3><img src="../../assets/img/kuroishi.png" alt="">対局記録</h3>
+                <?php
+                $counter = 0; 
+                foreach($getRecordList as $key => $val): ?>
+        <div class="showRecord">
+            日時：<?php echo $val["game_date"]; ?><br>
+            黒：<?php echo $val["player_black"]; ?><br>
+            白：<?php echo $val["player_white"]; ?><br>
+            白アゲハマ：<?php echo $val["agehama_white"]; ?><br>
+            黒アゲハマ：<?php echo $val["agehama_black"]; ?><br>
+            コミ：<?php echo $val ["komi"] ?><br>
+            結果：<?php echo $val["outcome"]; ?><br>
+            <div class="RecordPic">
+                <img src="<?php echo $val["game_pic1"] ?>" alt="" class="RecordPic"><br>
+                コメント：<?php echo $val["comment1"] ?><br>
+                <img src="<?php echo $val["game_pic2"] ?>" alt="" class="RecordPic"><br>
+                コメント：<?php echo $val["comment2"] ?><br>
+                <img src="<?php echo $val["game_pic3"] ?>" alt="" class="RecordPic"><br>
+                コメント：<?php echo $val["comment3"] ?><br>
             </div>
         </div>
-        <div class="showRecord">
-            <?php foreach($getRecordList as $key => $val): ?>
-                <div class="RecordPic">
-                    <img src="<?php echo $val["game_pic1"] ?>" alt="" class="pic1">
-                    コメント：<?php echo $val["comment1"] ?>
-                    <img src="<?php echo $val["game_pic2"] ?>" alt="">
-                    コメント：<?php echo $val["comment2"] ?>
-                    <img src="<?php echo $val["game_pic3"] ?>" alt="">
-                    コメント：<?php echo $val["comment3"] ?>
-                </div>
-                <span>
-                    日時：<?php echo $val["game_date"]; ?><br>
-                    黒：<?php echo $val["player_black"]; ?><br>
-                    白：<?php echo $val["player_white"]; ?><br>
-                    白アゲハマ：<?php echo $val["agehama_white"]; ?><br>
-                    黒アゲハマ：<?php echo $val["agehama_black"]; ?><br>
-                    コミ：<?php echo $val ["komi"] ?><br>
-                    結果：<?php echo $val["outcome"]; ?><br>
-            </span>
-            <?php endforeach; ?>
-        </div>
-
+        <?php 
+                if($counter >= 2){break;} 
+                $counter++; 
+            endforeach; ?>
+    </div>
+    <a href="record.php">記録ページへ</a>
     </main>
 </section>
 <!-- フッター -->
