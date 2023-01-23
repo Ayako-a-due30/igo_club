@@ -60,15 +60,7 @@ section{
     height: 400px;
     float: left;
     margin: 10px;
-    /* box-sizing: border-box; */
 }
-/* .schedule{
-    margin-right: 90px;
-}
-.login{
-    padding-left: 25px;
-    padding-right: 25px;
-} */
 table{
     vertical-align: middle;
     overflow: hidden;
@@ -114,7 +106,6 @@ p{
 }
 header,footer{
     width: 100%;
-    /* margin: 0; */
     line-height: 150%;
     text-align: center;
     background-color: #333;
@@ -242,7 +233,70 @@ td.record-td{
     width: 80%;
     height: 80%;
 }
+.goNote{
+    text-align: center;
+    background-color: #949494;
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+    float: right;
+}
+.goNote>a{
+    color: #f7f7f7;
+    vertical-align: middle;
+    font-family: 'Tiro Bangla', serif;
+}
+/* 記録閲覧ページ */
+.recpage-wrap{
+    width: 800px;
+    min-height: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+}
 
+.viewRecord{
+    background-color: #f7f7f7;
+    width:31%;
+    height:750px;
+    float: left;
+    margin: 1px;
+    display: block;
+}
+.RecPic{
+    width: 150px;
+    height: 150px;
+}
+.goNote{
+    text-align: center;
+    background-color: #949494;
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+    float: right;
+}
+.goNote>a{
+    color: #f7f7f7;
+    vertical-align: middle;
+    font-family: 'Tiro Bangla', serif;
+}
+
+.rec_search{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.rec_search>tr{
+    height: 70px;
+}
+.rec_search>tr>td>input[type="submit"]{
+    text-align: right;
+}
 /* お問合せメール送信ページ */
 .mail-title{
     text-align: center;

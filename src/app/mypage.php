@@ -176,8 +176,10 @@ require('header.php');
                 $counter++; 
             endforeach; ?>
     </div>
-    <a href="record.php">記録ページへ</a>
-    </main>
+</main>
+<div class="goNote">
+    <a href="record.php" >記録ページを見る</a>
+</div>
 </section>
 <!-- フッター -->
 
