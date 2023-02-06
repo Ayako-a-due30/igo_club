@@ -160,7 +160,7 @@ div.area-msg{
 /* マイページ */
 .mypage-wrap{
     width: 800px;
-    height: 1350px;
+    height: 1500px;
     min-height: 600px;
     margin-right: auto;
     margin-left: auto;
@@ -168,14 +168,9 @@ div.area-msg{
     overflow: hidden;
 }
 .game-record{
-    float: left;
     margin: 15px;
-}
-.game-record{
-    width: 400px;
     width: 700px;
     margin-left: 50px;
-
 }
 .bar{
     float: left;
@@ -218,9 +213,8 @@ td.record-td{
   margin-right: 8px;
 }
 /* 対局記録表示 */
-.showNote{
-    clear:both;
-}
+
+
 .showRecord{
     background-color: #f7f7f7;
     width:33%;
@@ -230,17 +224,8 @@ td.record-td{
     display: block;
 }
 .RecordPic{
-    width: 80%;
-    height: 80%;
-}
-.goNote{
-    text-align: center;
-    background-color: #949494;
-    border: none;
-    border-radius: 3px;
-    width: 200px;
-    height: 30px;
-    float: right;
+    height: 150px;
+    width: 150px;
 }
 .goNote>a{
     color: #f7f7f7;
@@ -254,16 +239,19 @@ td.record-td{
     margin-right: auto;
     margin-left: auto;
     box-sizing: border-box;
+    /* overflow: hidden; */
+}
+
+.RecordArea{
     overflow: hidden;
 }
 
-.viewRecord{
+.ViewRecord{
     background-color: #f7f7f7;
     width:31%;
     height:750px;
     float: left;
     margin: 1px;
-    display: block;
 }
 .RecPic{
     width: 150px;
@@ -297,6 +285,10 @@ td.record-td{
 .rec_search>tr>td>input[type="submit"]{
     text-align: right;
 }
+.td_date_search{
+    text-align: center;
+}
+.date
 /* お問合せメール送信ページ */
 .mail-title{
     text-align: center;
@@ -365,4 +357,12 @@ td>input[type="password"]{
 }
 .form{
     vertical-align: middle;
+}
+/* 記録ページ */
+.delete_btn>input{
+    text-decoration: none;
+    color: #f7f7f7;
+}
+.delete_btn>input:hover{
+    text-decoration: underline;
 }

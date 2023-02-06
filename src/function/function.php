@@ -57,7 +57,7 @@ const SUC04 = 'ノートに記録しました。';
 
 // //グローバル変数・エラーメッセージ格納用
 $err_msg = array();
-
+$data= array();
 
 // //////////////バリデーション///////////////////
 
@@ -155,16 +155,17 @@ function dbConnect(){
 }
 
 function queryPost($dbh,$sql,$data){
-    $stmt=$dbh->prepare($sql);
+    $stmt= $dbh->prepare($sql);
     if(!$stmt->execute($data)){
         $err_msg['common'] = MSG07;
         return 0;
         debug('クエリに失敗しました');
     }
-    $stmt->execute($data);
+    // $stmt->execute($data);
     debug('クエリ成功');
     return $stmt;
 }
+
 function uploadImg($file,$key){
     debug('画像アップロード開始、FILE情報：'.print_r($file,true));
     if(isset($file['error'])&& is_int($file['error'])){
@@ -202,10 +203,12 @@ function uploadImg($file,$key){
 /////////////データベース出力
 function getRecord($u_id){
     debug('記録を取得します');
-    debug('ユーザーデータ：'.print_r($_SESSION['user_id']));
+    debug('ユーザーデータ：'.print_r($u_id));
     try{
         $dbh = dbConnect();
-        $sql = 'SELECT*FROM record WHERE user_id = :user_id';
+        $sql = 'SELECT*FROM record WHERE user_id = :user_id 
+        AND delete_flg = 0
+        ORDER BY game_id DESC';
         $data = array(':user_id'=>$u_id);
         $stmt = queryPost($dbh,$sql,$data);
         if($stmt){
@@ -219,7 +222,120 @@ function getRecord($u_id){
        $err_msg = MSG06;
     }
 }
+///画像投稿がない時
+function showImg($path){
+    if(empty($path)){
+        return ('../../assets/img/sample.png');
+    }else{
+        return $path;
+    }
+}
+//棋譜検索
+function searchKifuWord($str){
+    debug('棋譜ワード検索を開始します。');
+    try{
+        $dbh = dbConnect();
+        $sql = 
+        'SELECT 
+        game_id,game_date, player_black, agehama_black, player_white, agehama_white,komi,outcome,game_pic1,comment1,game_pic2,comment2,game_pic3,comment3,user_id,delete_flg 
+        FROM record WHERE 
+        player_black = :str OR
+        agehama_black = :str OR
+        player_white =:str OR
+        agehama_white = :str OR
+        komi = :str OR
+        outcome =:str OR
+        comment1 =:str OR
+        comment2 =:str OR
+        comment3 = :str
+        AND delete_flg = 0
+        ORDER BY game_id DESC';
+        $data = array(':str' =>$str);
+        $stmt = queryPost($dbh, $sql, $data);
+        if($stmt){
+            $result = $stmt ->fetchAll();
+            return $result;
 
+        }else{
+            return false;
+        }
+    }catch(Exception $e){
+        error_log('エラー発生：'.$e->getMessage());
+    }
+}
+
+function searchKifuDate($date1, $date2){
+    debug('棋譜日付検索を開始します。');
+    try{
+        $dbh = dbConnect();
+        $sql = 
+        'SELECT 
+        game_id,game_date, player_black, agehama_black, player_white, agehama_white,komi,outcome,game_pic1,comment1,game_pic2,comment2,game_pic3,comment3,user_id,delete_flg 
+        FROM record 
+        WHERE delete_flg = 0 
+        AND game_date 
+        BETWEEN :date1 AND :date2';
+        $data = array(':date1'=>$date1, ':date2'=>$date2);
+        $stmt = queryPost($dbh, $sql, $data);
+        if($stmt){
+            $result = $stmt->fetchAll();
+            return $result;
+        }else{
+            return false;
+        }
+    }catch(Exception $e){
+        error_log('エラー発生：'.$e->getMessage());
+    }
+    return $str;
+}
+
+function searchKifuWordDate($str, $date1, $date2){
+    debug ('棋譜のワードと期間の検索を開始します');
+    try{
+        $dbh = dbConnect();
+        $sql = 
+        'SELECT
+        game_id,game_date, player_black, agehama_black, player_white, agehama_white,komi,outcome,game_pic1,comment1,game_pic2,comment2,game_pic3,comment3,user_id,delete_flg 
+        FROM record WHERE 
+        player_black = :str OR
+        agehama_black = :str OR
+        player_white =:str OR
+        agehama_white = :str OR
+        komi = :str OR
+        outcome =:str OR
+        comment1 =:str OR
+        comment2 =:str OR
+        comment3 = :str
+        AND delete_flg = 0
+        AND game_date BETWEEN :date1 AND :date2
+        ORDER BY game_id ASC';
+        $data = array (':str'=>$str, ':date1'=>$date1, ':date2' =>$date2);
+        $stmt = queryPost($dbh,$sql,$data);
+        if($stmt){
+            $result = $stmt->fetchAll();
+            return $result;
+        }else{
+            return false;
+        }
+    }catch(Exception $e){
+        error_log('エラー発生：'.$e->getMessage());
+    }
+    return $str;
+}
+// 記録を削除する
+function deleteFlgOn($u_id,$game_id){
+    debug('棋譜を削除します');
+    try{
+        $dbh = dbConnect();
+        $sql = 
+        'UPDATE `record` SET delete_flg=1
+        WHERE delete_flg =0 AND game_id = :game_id';
+        $data = array(':game_id' => $game_id);
+        $stmt = queryPost($dbh,$sql,$data);
+    }catch(Exception $e){
+        error_log('エラー発生：'.$e->getMessage());
+    }
+}
 
 /////////////メール送信
 
@@ -279,6 +395,7 @@ function makeRandKey($length = 8){
     }
     return $str;
 }
+
 ///////////////サニタイズ
 function sanitize($str){
     return htmlspecialchars($str,ENT_QUOTES);

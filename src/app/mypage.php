@@ -1,13 +1,17 @@
 <?php
+    
     error_reporting(E_ALL);
     ini_set('display_errors','On');
+    
+    require('../function/function.php');
+    $u_id = $_SESSION['user_id'];
 
-require('../function/function.php');
-$u_id = $_SESSION['user_id'];
 
-if(!empty($_POST)){
-    // var_dump($_POST);送信内容はPOSTに入っている12/26
-    $game_date='';
+    // ////棋譜アップロード
+
+if((!empty($_POST) || ($_FILES))){
+    
+    $game_date=$_POST['game_date'];
     $player_black = $_POST['player_black'];
     $agehama_black = $_POST['agehama_black'];
     $player_white = $_POST['player_white'];
@@ -17,68 +21,55 @@ if(!empty($_POST)){
     $comment1= $_POST['comment1'];
     $comment2 = $_POST['comment2'];
     $comment3 = $_POST['comment3'];
+    $game_pic1 = (!empty($_FILES['game_pic1']['name'])) ? uploadImg($_FILES['game_pic1'],'game_pic1'):'';
+    $game_pic1 = (empty($game_pic1) && !empty($dbFormData['game_pic1']) )? $dbFormData['game_pic1']: $game_pic1;
+    $game_pic2 = (!empty($_FILES['game_pic2']['name'])) ? uploadImg($_FILES['game_pic2'],'game_pic2'):'';
+    $game_pic2 = (empty($game_pic2) && !empty($dbFormData['game_pic2']) )? $dbFormData['game_pic2']: $game_pic2;
+    $game_pic3 = (!empty($_FILES['game_pic3']['name'])) ? uploadImg($_FILES['game_pic3'],'game_pic3'):'';
+    $game_pic3 = (empty($game_pic3) && !empty($dbFormData['game_pic3'])) ? $dbFormData['game_pic3']: $game_pic3;     
     
-    if(!empty($_FILES)){
-        $game_pic1 = (!empty($_FILES['game_pic1']['name'])) ? uploadImg($_FILES['game_pic1'],'game_pic1'):'';
-        $game_pic1 = (empty($game_pic1) && !empty($dbFormData['game_pic1']) )? $dbFormData['game_pic1']: $game_pic1;
-        $game_pic2 = (!empty($_FILES['game_pic2']['name'])) ? uploadImg($_FILES['game_pic2'],'game_pic2'):'';
-        $game_pic2 = (empty($game_pic2) && !empty($dbFormData['game_pic2']) )? $dbFormData['game_pic2']: $game_pic2;
-        $game_pic3 = (!empty($_FILES['game_pic3']['name'])) ? uploadImg($_FILES['game_pic3'],'game_pic3'):'';
-        $game_pic3 = (empty($game_pic3) && !empty($dbFormData['game_pic3'])) ? $dbFormData['game_pic3']: $game_pic3;        
-    }
 
-    try{
-        $dbh = dbConnect();
-        $sql='INSERT INTO `record`(game_date,player_black,agehama_black,player_white,agehama_white,komi,outcome,game_pic1,comment1,game_pic2,comment2,game_pic3,comment3,user_id)
-        VALUES(:game_date,:player_black,:agehama_black,:player_white,:agehama_white,:komi,:outcome,:game_pic1,:comment1,:game_pic2,:comment2,:game_pic3,:comment3,:user_id)';
-        $data = array(
-        ':game_date'=>date('Y-m-d H:i:s'),
-        ':player_black'=>$player_black,
-        ':agehama_black'=>$agehama_black,
-        ':player_white'=>$player_white,
-        ':agehama_white'=>$agehama_white,
-        ':komi'=>$komi,
-        ':outcome'=>$outcome,
-        ':game_pic1'=>$game_pic1,
-        ':comment1'=>$comment1,
-        ':game_pic2'=>$game_pic2,
-        ':comment2'=>$comment2,
-        ':game_pic3'=>$game_pic3,
-        ':comment3'=>$comment3,
-        ':user_id'=>$_SESSION["user_id"]);
-        //クエリ実行
-        debug('流し込みデータ：'.print_r($data));
-        $stmt=queryPost($dbh,$sql,$data);
-        if($stmt){
-            $_SESSION['msg_success']= SUC04;
+        try{
+            $dbh = dbConnect();
+            $sql='INSERT INTO 
+            `record`
+            (game_date,player_black,agehama_black,player_white,agehama_white,komi,outcome,game_pic1,comment1,
+            game_pic2,comment2,game_pic3,comment3,user_id)
+            VALUES
+            (:game_date,:player_black,:agehama_black,:player_white,:agehama_white,:komi,:outcome,:game_pic1,:comment1,
+            :game_pic2,:comment2,:game_pic3,:comment3,:user_id)';
+            $data = array(
+                ':game_date'=>$game_date,
+                ':player_black'=>$player_black,
+                ':agehama_black'=>$agehama_black,
+                ':player_white'=>$player_white,
+                ':agehama_white'=>$agehama_white,
+                ':komi'=>$komi,
+                ':outcome'=>$outcome,
+                ':game_pic1'=>$game_pic1,
+                ':comment1'=>$comment1,
+                ':game_pic2'=>$game_pic2,
+                ':comment2'=>$comment2,
+                ':game_pic3'=>$game_pic3,
+                ':comment3'=>$comment3,
+                ':user_id'=>$u_id);
+                //クエリ実行
+                debug('流し込みデータ：'.print_r($data));
+                $stmt = queryPost($dbh,$sql,$data);
+                if($stmt){
+                    $_SESSION['msg_success']= SUC04;
+                    // header("Location:record.php");
+                }
+            }catch(Exception $e){
+                $err_msg['common']=MSG06;
+                
+            }
         }
-    }catch(Exception $e){
-        $err_msg['common']=MSG06;
 
-    }
-}
-        // クエリ成功の場合
-// ////棋譜アップロード
-    $getRecordList = getRecord($_SESSION['user_id']);
-// if(!empty($_FILES)){
-//     $file = $_FILES['image'];
-//     $msg = '';
-//     $img_path = '';
 
-//     /////////////
-//     // $fileについてのバリデーションを書くこと
-//     //拡張子がjpeg,pngを確認
 
-//     ////////////////
-//     $upload_path ='game_images/'.$file['name'];
-//     $rst = move_uploaded_file($file['tmp_name'],$upload_path);
-//     if($rst){
-//         $msg ='画像をアップしました。'.$file['name'];
-//         $img_path = $upload_path;
-//     }else{
-//         $msg='画像はアップできませんでした。'.$file['error'];
-//     }
-// }
+    $getRecordList = getRecord($u_id);
+
 ?>
 <?php
 $siteTitle='囲碁部ノート|マイページ：';
@@ -155,21 +146,20 @@ require('header.php');
                 $counter = 0; 
                 foreach($getRecordList as $key => $val): ?>
         <div class="showRecord">
+            <!-- ループ内容 -->
             日時：<?php echo $val["game_date"]; ?><br>
             黒：<?php echo $val["player_black"]; ?><br>
             白：<?php echo $val["player_white"]; ?><br>
             白アゲハマ：<?php echo $val["agehama_white"]; ?><br>
             黒アゲハマ：<?php echo $val["agehama_black"]; ?><br>
-            コミ：<?php echo $val ["komi"] ?><br>
+            コミ：<?php echo $val ["komi"];?><br>
             結果：<?php echo $val["outcome"]; ?><br>
-            <div class="RecordPic">
-                <img src="<?php echo $val["game_pic1"] ?>" alt="" class="RecordPic"><br>
-                コメント：<?php echo $val["comment1"] ?><br>
-                <img src="<?php echo $val["game_pic2"] ?>" alt="" class="RecordPic"><br>
-                コメント：<?php echo $val["comment2"] ?><br>
-                <img src="<?php echo $val["game_pic3"] ?>" alt="" class="RecordPic"><br>
-                コメント：<?php echo $val["comment3"] ?><br>
-            </div>
+                <img src="<?php echo showImg(sanitize($val["game_pic1"])); ?>" alt="" class="RecordPic"><br>
+                コメント：<?php echo $val["comment1"]; ?><br>
+                <img src="<?php echo showImg(sanitize($val["game_pic2"])); ?>" alt="" class="RecordPic"><br>
+                コメント：<?php echo $val["comment2"]; ?><br>
+                <img src="<?php echo showImg(sanitize($val["game_pic3"])); ?>" alt="" class="RecordPic"><br>
+                コメント：<?php echo $val["comment3"]; ?><br>
         </div>
         <?php 
                 if($counter >= 2){break;} 
